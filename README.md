@@ -1,5 +1,6 @@
 # Transcription-Parsing
 Human Interaction Lab
+
 Spencer Ha
 
 Parses through .cha files in a directory and removes all special characters and CA (Conversation Analysis)
