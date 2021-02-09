@@ -6,11 +6,14 @@
 # Made by: Spencer Ha
 
 import os
+from string import digits
 
 #goes through the entire directory and takes all cha files. change the listdir
 #to your dir with the cha files
 path = "/Users/spencer/Desktop/Transcription-Parsing/cha_files/"
 filelist = os.listdir(path)
+
+remove_digits = str.maketrans('', '', digits)
 
 writer= open('transcribed_file.txt', 'w') 
 for i in filelist:
@@ -23,6 +26,9 @@ for i in filelist:
                 #removes all characters after the '%'. Can change if needed
                 sep = '%'
                 line = line.split(sep, -1)[0] + '\n'
+                #removes all ⌈⌋⌊⌉().*
+                line = line.translate({ord(z): None for z in '⌈⌋⌊⌉().*'})
+                line = line.translate(remove_digits)
                 writer.writelines(line)
             writer.write("\n")
 
