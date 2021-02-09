@@ -19,7 +19,7 @@ writer= open('transcribed_file.txt', 'w')
 for i in filelist:
     if i.endswith(".cha"):
         with open(path + i, 'r') as file:
-            writer.write("File being transcribed is " + str(i) + "\n")
+            writer.write("**** File being transcribed is " + str(i) +" ****" + "\n")
             for line in file:
                 if line.startswith('@'):
                     continue
