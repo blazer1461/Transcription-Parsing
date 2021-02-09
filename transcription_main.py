@@ -14,12 +14,14 @@ path = "/Users/spencer/Desktop/Transcription-Parsing/cha_files/"
 filelist = os.listdir(path)
 
 remove_digits = str.maketrans('', '', digits)
+remove_SP = str.maketrans('','', 'SP:')
 
 writer= open('transcribed_file.txt', 'w') 
 for i in filelist:
     if i.endswith(".cha"):
         with open(path + i, 'r') as file:
-            writer.write("**** File being transcribed is " + str(i) +" ****" + "\n")
+            # if you want a header line saying which file is being transcribed  uncomment the next line
+            # writer.write("**** File being transcribed is " + str(i) +" ****" + "\n")
             for line in file:
                 if line.startswith('@'):
                     continue
@@ -27,8 +29,9 @@ for i in filelist:
                 sep = '%'
                 line = line.split(sep, -1)[0] + '\n'
                 #removes all ⌈⌋⌊⌉().*
-                line = line.translate({ord(z): None for z in '⌈⌋⌊⌉().*'})
+                line = line.translate({ord(z): None for z in '⌈⌋⌊⌉().*≈><\t'})
                 line = line.translate(remove_digits)
+                line = line.translate(remove_SP)
                 writer.writelines(line)
             writer.write("\n")
 
