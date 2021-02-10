@@ -20,6 +20,7 @@ def main():
 
     writer_txt = open('transcribed_file.txt', 'w')
     for i in filelist:
+        counter = 0
         writer_csv = open(os.path.join(write_path, i + '.csv'), 'w')
         csv_writer = csv.writer(writer_csv, delimiter=',')
         if i.endswith(".cha"):
@@ -41,7 +42,8 @@ def main():
                     line = line_manipulation(line)
                     print(line)
                     writer_txt.writelines(line)
-                    csv_writer.writerow([speaker_ID,line])
+                    counter = counter + 1
+                    csv_writer.writerow([counter,speaker_ID,line])
 
 def line_manipulation(line):
     remove_digits = str.maketrans('', '', digits)
