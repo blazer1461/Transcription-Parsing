@@ -10,30 +10,31 @@ from string import digits
 
 #goes through the entire directory and takes all cha files. change the listdir
 #to your dir with the cha files
-path = "/Users/spencer/Desktop/Transcription-Parsing/cha_files/"
-filelist = os.listdir(path)
+def main():
+    path = "/Users/spencer/Desktop/Transcription-Parsing/cha_files/"
+    filelist = os.listdir(path)
 
-remove_digits = str.maketrans('', '', digits)
-remove_SP = str.maketrans('','', 'SP:')
-
-writer= open('transcribed_file.txt', 'w') 
-for i in filelist:
-    if i.endswith(".cha"):
-        with open(path + i, 'r') as file:
-            # if you want a header line saying which file is being transcribed  uncomment the next line
-            # writer.write("**** File being transcribed is " + str(i) +" ****" + "\n")
-            for line in file:
-                if line.startswith('@'):
-                    continue
+    remove_digits = str.maketrans('', '', digits)
+    writer= open('transcribed_file.txt', 'w') 
+    for i in filelist:
+        if i.endswith(".cha"):
+            with open(path + i, 'r') as file:
+                # if you want a header line saying which file is being transcribed  uncomment the next line
+                # writer.write("**** File being transcribed is " + str(i) +" ****" + "\n")
+                for line in file:
+                    if line.startswith('@'):
+                        continue
                 #removes all characters after the '%'. Can change if needed
-                sep = '%'
-                line = line.split(sep, -1)[0] + '\n'
+                    sep = '%'
+                    line = line.split(sep, -1)[0] + '\n'
                 #removes all ⌈⌋⌊⌉().*
-                line = line.translate({ord(z): None for z in '⌈⌋⌊⌉().*≈><\t'})
-                line = line.translate(remove_digits)
-                line = line.translate(remove_SP)
-                writer.writelines(line)
-            writer.write("\n")
+                    line = line.translate({ord(z): None for z in '⌈⌋⌊⌉().*≈><\t'})
+                    line = line.translate(remove_digits)
+                    line = line.replace("SP:", "")
+                    writer.writelines(line)
+                writer.write("\n")
+
+main()
 
             
             
