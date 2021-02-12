@@ -43,9 +43,12 @@ def main():
                         #Deletes all remaining special characters and digits
                         line = line_manipulation(line)
                         print(line)
-                        writer_txt.writelines(line)
-                        counter = counter + 1
-                        csv_writer.writerow([counter,speaker_ID,line])
+                        if len(line) < 2: 
+                            continue 
+                        else:
+                            writer_txt.writelines(line)
+                            counter = counter + 1
+                            csv_writer.writerow([counter,speaker_ID,line])
 
 def line_manipulation(line):
     remove_digits = str.maketrans('', '', digits)
