@@ -1,4 +1,4 @@
-# First Draft Transciption.
+# Second Draft Transciption.
 # export to .csv
 # Purpose: Takes all .cha files from a directory and parse through the files
 #          which has special characters. Output them all to a seperate new csv ile
@@ -12,7 +12,7 @@ from string import digits
 #goes through the entire directory and takes all cha files. change the listdir
 #to your dir with the cha files
 def main():
-    path = "In_conversation_corpus_transcripts/"
+    path = "cha_files/"
     filelist = os.listdir(path)
 
     #change the path to the folder directory where you want your csv files to go to

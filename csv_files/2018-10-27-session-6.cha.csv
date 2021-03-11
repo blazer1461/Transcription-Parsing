@@ -1,2132 +1,2094 @@
-1,SP1,"How's it going 
+1,SP1,"How's it going
 "
-2,SP2,"I'm good How are you 
+2,SP2,"I'm good How are you
 "
-3,SP1,"I'm good are you from Michigan 
+3,SP1,"I'm good are you from Michigan
 "
-4,SP2,"No I'm from Washington DC 
+4,SP2,"No I'm from Washington DC
 "
-5,SP1,"Gotcha 
+5,SP1,"Gotcha
 "
-6,SP2,"Yeah 
+6,SP2,"Yeah
 "
-7,SP1,"exciting 
+7,SP1,"exciting
 "
-8,SP1,"Yeah 
+8,SP1,"Yeah
 "
-9,SP2,"What year are you at school 
+9,SP2,"What year are you at school
 "
-10,SP1,"freshman 
+10,SP1,"freshman
 "
-11,SP2,"me too 
+11,SP2,"me too
 "
-12,SP1,"Nice What dorm are you in 
+12,SP1,"Nice What dorm are you in
 "
-13,SP2,"I'm in Hill 
+13,SP2,"I'm in Hill
 "
-14,SP2,"
+14,SP2,"what are what about you
 "
-15,SP2,"what are what about you 
+15,SP1,"Oh I'm in hodge
 "
-16,SP1,"Oh I'm in hodge 
+16,SP2,"ooh
 "
-17,SP2,"ooh 
+17,SP1,"so really far walk
 "
-18,SP1,"so really far walk 
+18,SP2,"Yes
 "
-19,SP2,"Yes 
+19,SP2,"Hill is actually close to here which is nice
 "
-20,SP2,"Hill is actually close to here which is nice 
+20,SP1,"Yeah
 "
-21,SP1,"Yeah 
+21,SP1,"Yeah probably gonna stop by hill on the way back stop in my friend's dorm
 "
-22,SP1,"Yeah probably gonna stop by hill on the way back stop in my friend's dorm 
+22,SP2,"oho
 "
-23,SP2,"oho 
+23,SP2,"true
 "
-24,SP2,"true 
+24,SP1,"Yeah
 "
-25,SP1,"Yeah 
+25,SP2,"who's your what's his name
 "
-26,SP2,"who's your what's his name 
+26,SP1,"Her name is Julia
 "
-27,SP1,"Her name is Julia 
+27,SP2,"Or her
 "
-28,SP2,"Or her 
+28,SP2,"Julia
 "
-29,SP2,"Julia 
+29,SP1,"I left my backpack there
 "
-30,SP1,"I left my backpack there 
+30,SP2,"Oh true
 "
-31,SP2,"Oh true 
+31,SP1,"So it's important
 "
-32,SP1,"So it's important 
+32,SP2,"Yeah what classes are you taking
 "
-33,SP2,"Yeah what classes are you taking 
+33,SP1,"I'm taking stats game theory psych and uh composition for film how bout you
 "
-34,SP1,"I'm taking stats game theory psych and uh composition for film how bout you 
+34,SP2,"oh I'm in psych
 "
-35,SP2,"oh I'm in psych 
+35,SP1,"that makes sense
 "
-36,SP1,"that makes sense 
+36,SP2,"English one
 "
-37,SP2,"English one 
+37,SP1,"Okay
 "
-38,SP1,"Okay 
+38,SP2,"um
 "
-39,SP2,"um 
+39,SP2,"I'm in a music as culture class
 "
-40,SP2,"I'm in a music as culture class 
+40,SP1,"ooo I almost took that
 "
-41,SP1,"ooo I almost took that 
+41,SP2,"which is It's cool
 "
-42,SP2,"which is It's cool 
+42,SP2,"but it's like
 "
-43,SP2,"but it's like 
+43,SP1,"Yeah mm
 "
-44,SP1,"Yeah mm 
+44,SP1,"I took the composition for film class instead because
 "
-45,SP1,"I took the composition for film class instead because 
+45,SP2,"A lot of work
 "
-46,SP2,"A lot of work 
+46,SP2,"Yeah that's at that one I mean I'm not a film person but that does sound cool
 "
-47,SP2,"Yeah that's at that one I mean I'm not a film person but that does sound cool 
+47,SP1,"Yeah I'm not really a film person either but I like writing music so
 "
-48,SP1,"Yeah I'm not really a film person either but I like writing music so 
+48,SP2,"Okay
 "
-49,SP2,"Okay 
+49,SP1,"that's the that's the whole class basically
 "
-50,SP1,"that's the that's the whole class basically 
+50,SP2,"Yeah that's so neat
 "
-51,SP2,"Yeah that's so neat 
+51,SP1,"Yeah
 "
-52,SP1,"Yeah 
+52,SP2,"Yeah like the music is culture class we just had an exam and I'm just like
 "
-53,SP2,"Yeah like the music is culture class we just had an exam and I'm just like 
+53,SP1,"Really
 "
-54,SP1,"Really 
+54,SP2,"It was not
 "
-55,SP2,"It was not 
+55,SP2,"So you have to keep up with the readings and stuff
 "
-56,SP2,"So you have to keep up with the readings and stuff 
+56,SP1,"ah
 "
-57,SP1,"ah 
+57,SP1,"ooo
 "
-58,SP1,"ooo 
+58,SP2,"so studying for that was a pain
 "
-59,SP2,"so studying for that was a pain 
+59,SP1,"Yeah that's a tough one
 "
-60,SP1,"Yeah that's a tough one 
+60,SP2,"Yeah
 "
-61,SP2,"Yeah 
+61,SP1,"I feel like with psych with the keeping up for the readings it takes forever
 "
-62,SP1,"I feel like with psych with the keeping up for the readings it takes forever 
+62,SP2,"I know I can't I'm still on chapter nine
 "
-63,SP2,"I know I can't I'm still on chapter nine 
+63,SP1,"I just started chapter nine
 "
-64,SP1,"I just started chapter nine 
+64,SP2,"It's like I can't I only did I'm on nine one and I like read the first like nine one a but like part B is so long I just gave up on it
 "
-65,SP2,"It's like I can't I only did I'm on nine one and I like read the first like nine one a but like part B is so long I just gave up on it 
+65,SP1,"Yeah
 "
-66,SP1,"Yeah 
+66,SP2,"Are you interested in s like studying psych or like what are you interested in
 "
-67,SP2,"Are you interested in s like studying psych or like what are you interested in 
+67,SP1,"I wasn't before
 "
-68,SP1,"I wasn't before 
+68,SP1,"kinda just took it on a whim
 "
-69,SP1,"kinda just took it on a whim 
+69,SP2,"Yeah
 "
-70,SP2,"Yeah 
+70,SP1,"Yeah I'm planning on majoring in applied mathematics and quantitative econ
 "
-71,SP1,"Yeah I'm planning on majoring in applied mathematics and quantitative econ 
+71,SP2,"oh Cool
 "
-72,SP2,"oh Cool 
+72,SP1,"But I'm not taking any math classes which is a problem
 "
-73,SP1,"But I'm not taking any math classes which is a problem 
+73,SP2,"What's game theory though
 "
-74,SP2,"What's game theory though 
+74,SP1,"Game theory is an economics class
 "
-75,SP2,"
+75,SP2,"Okay
 "
-76,SP1,"Game theory is an economics class 
+76,SP1,"um I thought it was gonna be a math class but I can probably
 "
-77,SP2,"Okay 
+77,SP1,"Try to get it to count for the math
 "
-78,SP1,"um I thought it was gonna be a math class but I can probably 
+78,SP2,"mhm
 "
-79,SP1,"Try to get it to count for the math 
+79,SP1,"Um I'll fight for it
 "
-80,SP2,"mhm 
+80,SP2,"Yeah
 "
-81,SP1,"Um I'll fight for it 
+81,SP1,"Yeah
 "
-82,SP2,"Yeah 
+82,SP2,"There were like no math classes available when I was when my during my registation time
 "
-83,SP1,"Yeah 
+83,SP1,"I couldn't get in any of them I was too late
 "
-84,SP2,"There were like no math classes available when I was when my during my registation time 
+84,SP2,"Yeah
 "
-85,SP1,"I couldn't get in any of them I was too late 
+85,SP1,"yeah
 "
-86,SP2,"Yeah 
+86,SP2,"When was your time
 "
-87,SP1,"yeah 
+87,SP1,"think twelve forty five
 "
-88,SP2,"When was your time 
+88,SP2,"oh you were later than me I was a twelve fifteen I think
 "
-89,SP1,"think twelve forty five 
+89,SP1,"Yeah so like every class was filled up when I looked at it
 "
-90,SP2,"oh you were later than me I was a twelve fifteen I think 
+90,SP2,"Yeah
 "
-91,SP1,"Yeah so like every class was filled up when I looked at it 
+91,SP1,"that was nice
 "
-92,SP2,"Yeah 
+92,SP2,"Yeah I hopefully next semester is different
 "
-93,SP1,"that was nice 
+93,SP2,"or like In two weeks whenever we register
 "
-94,SP2,"Yeah I hopefully next semester is different 
+94,SP1,"I hope
 "
-95,SP2,"or like In two weeks whenever we register 
+95,SP1,"Damn yeah
 "
-96,SP1,"I hope 
+96,SP2,"It's so weird that it's like November I don't like it
 "
-97,SP1,"
+97,SP1,"I'm not a huge fan either
 "
-98,SP1,"Damn yeah 
+98,SP2,"Are you doing anything for Halloween
 "
-99,SP2,"It's so weird that it's like November I don't like it 
+99,SP1,"Um I had a little bit of fun last night
 "
-100,SP1,"I'm not a huge fan either 
+100,SP2,"Okay
 "
-101,SP2,"Are you doing anything for Halloween 
+101,SP1,"Um probably have a little more fun tonight I have a comedy show tonight
 "
-102,SP1,"Um I had a little bit of fun last night 
+102,SP2,"oh that's fun
 "
-103,SP2,"Okay 
+103,SP1,"so that's fun
 "
-104,SP1,"Um probably have a little more fun tonight I have a comedy show tonight 
+104,SP2,"that is fun
 "
-105,SP2,"oh that's fun 
+105,SP1,"Yeah it's an open Mic but
 "
-106,SP1,"so that's fun 
+106,SP2,"Where is that
 "
-107,SP2,"that is fun 
+107,SP1,"It's in hotung which is in the campus center
 "
-108,SP1,"Yeah it's an open Mic but 
+108,SP2,"Okay
 "
-109,SP2,"Where is that 
+109,SP2,"cool
 "
-110,SP1,"It's in hotung which is in the campus center 
+110,SP1,"Yeah it's exciting out outside of that not doing much tonight
 "
-111,SP2,"Okay 
+111,SP2,"Yeah
 "
-112,SP2,"cool 
+112,SP1,"Yeah which psych class are you in
 "
-113,SP1,"Yeah it's exciting out outside of that not doing much tonight 
+113,SP2,"I'm in the twelve o'clock one
 "
-114,SP2,"Yeah 
+114,SP1,"I'm also in that one
 "
-115,SP1,"Yeah which psych class are you in 
+115,SP2,"There's so many people in it
 "
-116,SP2,"I'm in the twelve o'clock one 
+116,SP1,"There's too many people I keep meeting new people from it and I'm like really you're in this class
 "
-117,SP1,"I'm also in that one 
+117,SP2,"it's so many people you just blend in
 "
-118,SP2,"There's so many people in it 
+118,SP1,"Even worse was when I found out that guys live across the hall from me are in that class and sit in the rowbehind me
 "
-119,SP1,"There's too many people I keep meeting new people from it and I'm like really you're in this class 
+119,SP2,"uhuh
 "
-120,SP2,"it's so many people you just blend in 
+120,SP2,"Really
 "
-121,SP1,"Even worse was when I found out that guys live across the hall from me are in that class and sit in the rowbehind me 
+121,SP1,"Like every class and I
 "
-122,SP2,"uhuh 
+122,SP2,"Where do you sit in the room
 "
-123,SP2,"Really 
+123,SP1,"like closer to the front ish
 "
-124,SP1,"Like every class and I 
+124,SP2,"Okay
 "
-125,SP2,"Where do you sit in the room 
+125,SP1,"uh Like two like second or third row
 "
-126,SP1,"like closer to the front ish 
+126,SP2,"Okay I'm always in the back left I don't know why I always I'm like the last one there I like never get front
 "
-127,SP2,"Okay 
+127,SP1,"that helps no it's not a psychological reason
 "
-128,SP1,"uh Like two like second or third row 
+128,SP2,"No
 "
-129,SP2,"Okay I'm always in the back left I don't know why I always I'm like the last one there I like never get front 
+129,SP2,"I don't think so
 "
-130,SP1,"that helps no it's not a psychological reason 
+130,SP1,"Yeah that's exciting I don't know I kinda like the way that class is taught
 "
-131,SP2,"No 
+131,SP2,"Yeah
 "
-132,SP2,"I don't think so 
+132,SP1,"oh and they're
 "
-133,SP1,"Yeah that's exciting I don't know I kinda like the way that class is taught 
+133,SP2,"I like how it's both of them
 "
-134,SP2,"Yeah 
+134,SP1,"Yeah
 "
-135,SP1,"oh and they're 
+135,SP2,"they're both so cool
 "
-136,SP2,"I like how it's both of them 
+136,SP1,"Because I feel like I'd get tired of it if it was the same person every day lecturing me the same way
 "
-137,SP1,"Yeah 
+137,SP2,"Yeah
 "
-138,SP2,"they're both so cool 
+138,SP1,"Like it keeps us off balance it's nice
 "
-139,SP1,"Because I feel like I'd get tired of it if it was the same person every day lecturing me the same way 
+139,SP2,"Yeah definitely
 "
-140,SP2,"Yeah 
+140,SP1,"and they lecture so differently which is nice too
 "
-141,SP1,"Like it keeps us off balance it's nice 
+141,SP2,"I now it's the videos the other day were so funny
 "
-142,SP2,"Yeah definitely 
+142,SP1,"yeah
 "
-143,SP1,"and they lecture so differently which is nice too 
+143,SP1,"that helps every time they show the office I'm like have you seen that episode
 "
-144,SP2,"I now it's the videos the other day were so funny 
+144,SP2,"they were
 "
-145,SP1,"yeah 
+145,SP2,"I haven't seen the office
 "
-146,SP1,"that helps every time they show the office I'm like have you seen that episode 
+146,SP1,"it's worth watching
 "
-147,SP2,"they were 
+147,SP2,"I've watched
 "
-148,SP2,"I haven't seen the office 
+148,SP1,"It's worth I just started it like two weeks ago
 "
-149,SP1,"it's worth watching 
+149,SP2,"I want to watch it but I just like don't have time
 "
-150,SP2,"I've watched 
+150,SP1,"Yeah
 "
-151,SP1,"It's worth I just started it like two weeks ago 
+151,SP2,"It'll be a summer thing
 "
-152,SP2,"I want to watch it but I just like don't have time 
+152,SP1,"See I watched like one episode a day so I'm
 "
-153,SP1,"Yeah 
+153,SP2,"oh
 "
-154,SP2,"It'll be a summer thing 
+154,SP1,"Maybe two
 "
-155,SP1,"See I watched like one episode a day so I'm 
+155,SP2,"And they're quick right they're like twenty minutes
 "
-156,SP2,"oh 
+156,SP1,"And there's t twenty minute episodes yeah
 "
-157,SP1,"Maybe two 
+157,SP2,"Yeah
 "
-158,SP2,"And they're quick right they're like twenty minutes 
+158,SP1,"Um I think one of the seasons has all forty minute episodes but it's half the amount of episodes
 "
-159,SP1,"And there's t twenty minute episodes yeah 
+159,SP2,"Okay
 "
-160,SP2,"Yeah 
+160,SP1,"So
 "
-161,SP1,"Um I think one of the seasons has all forty minute episodes but it's half the amount of episodes 
+161,SP1,"I don't know why they did that
 "
-162,SP2,"Okay 
+162,SP2,"Yeah that's weird
 "
-163,SP1,"So 
+163,SP1,"But
 "
-164,SP1,"I don't know why they did that 
+164,SP2,"To change it up
 "
-165,SP2,"Yeah that's weird 
+165,SP1,"No it's a good show cause all my other um shows that I was quote unquote binging um ended so
 "
-166,SP1,"But 
+166,SP2,"oh okay
 "
-167,SP2,"To change it up 
+167,SP1,"or I finished them already
 "
-168,SP1,"No it's a good show cause all my other um shows that I was quote unquote binging um ended so 
+168,SP2,"ohh
 "
-169,SP2,"oh okay 
+169,SP1,"So that helps I had been anyone
 "
-170,SP1,"or I finished them already 
+170,SP2,"Yep the office I've I've heard nothing but good things about it
 "
-171,SP2,"ohh 
+171,SP1,"Yeah
 "
-172,SP1,"So that helps I had been anyone 
+172,SP2,"I just like don't
 "
-173,SP2,"Yep the office I've I've heard nothing but good things about it 
+173,SP1,"I haven't had any bad experience with it yet
 "
-174,SP1,"Yeah 
+174,SP2,"Yeah I just don't usually watch like co like funny shows
 "
-175,SP2,"I just like don't 
+175,SP1,"what do you watch usually
 "
-176,SP1,"I haven't had any bad experience with it yet 
+176,SP2,"I'm
 "
-177,SP2,"Yeah I just don't usually watch like co like funny shows 
+177,SP2,"I like crime shows
 "
-178,SP1,"what do you watch usually 
+178,SP1,"oo
 "
-179,SP2,"I'm 
+179,SP2,"and like that sort of thing
 "
-180,SP2,"I like crime shows 
+180,SP1,"like law and order kind of thing
 "
-181,SP1,"oo 
+181,SP2,"Yeah like law and order like criminal minds
 "
-182,SP2,"and like that sort of thing 
+182,SP1,"those those are cool shows
 "
-183,SP1,"like law and order kind of thing 
+183,SP2,"They're cool they're weird sometimes
 "
-184,SP2,"Yeah like law and order like criminal minds 
+184,SP1,"most the time yeah it's well done though
 "
-185,SP2,"
+185,SP2,"Yeah
 "
-186,SP1,"those those are cool shows 
+186,SP1,"yeah they do a good job with it
 "
-187,SP2,"They're cool they're weird sometimes 
+187,SP2,"SVU is a really good
 "
-188,SP1,"most the time yeah it's well done though 
+188,SP1,"Never watched SVU people tell me to I've never done it never actually gone through with it
 "
-189,SP2,"Yeah 
+189,SP2,"It's a good show
 "
-190,SP1,"yeah they do a good job with it 
+190,SP1,"I'll have to check it out
 "
-191,SP2,"SVU is a really good 
+191,SP2,"If you ever have time
 "
-192,SP1,"Never watched SVU people tell me to I've never done it never actually gone through with it 
+192,SP1,"I only have time for one episoode a day of the office so
 "
-193,SP2,"It's a good show 
+193,SP2,"That's what happened on SVU
 "
-194,SP1,"I'll have to check it out 
+194,SP1,"And then pretend that's still part of the same episode of the office
 "
-195,SP2,"If you ever have time 
+195,SP2,"Yeah
 "
-196,SP1,"I only have time for one episoode a day of the office so 
+196,SP1,"see if it matches up
 "
-197,SP2,"That's what happened on SVU 
+197,SP2,"exactly
 "
-198,SP1,"And then pretend that's still part of the same episode of the office 
+198,SP1,"Testing
 "
-199,SP2,"Yeah 
+199,SP2,"ugh
 "
-200,SP1,"see if it matches up 
+200,SP1,"Yeah
 "
-201,SP2,"exactly 
+201,SP1,"mostly just too tired to do things now
 "
-202,SP1,"Testing 
+202,SP2,"I know I always nap it's so bad I like never get work done
 "
-203,SP2,"ugh 
+203,SP1,"I didn't wake up till one today
 "
-204,SP1,"Yeah 
+204,SP2,"Yeah
 "
-205,SP1,"mostly just too tired to do things now 
+205,SP1,"Threw me off
 "
-206,SP2,"I know I always nap it's so bad I like never get work done 
+206,SP2,"We had to I'm on the soccer team we had to wake up
 "
-207,SP1,"I didn't wake up till one today 
+207,SP1,"oo
 "
-208,SP2,"Yeah 
+208,SP2,"For practice otherwise I wouldn't have gotten out of bed
 "
-209,SP1,"Threw me off 
+209,SP1,"Yeah I looked outside like when I woke up I'm like is it really one oclock it's kinda dark
 "
-210,SP2,"We had to I'm on the soccer team we had to wake up 
+210,SP2,"It's just like today was one of those days where you can't really do anything
 "
-211,SP1,"oo 
+211,SP1,"Yeah that made sense
 "
-212,SP2,"For practice otherwise I wouldn't have gotten out of bed 
+212,SP2,"It's just too gross out
 "
-213,SP1,"Yeah I looked outside like when I woke up I'm like is it really one oclock it's kinda dark 
+213,SP1,"tried to go to the gym but when I got there I was soaked so like it ruined the whole gym experience
 "
-214,SP2,"It's just like today was one of those days where you can't really do anything 
+214,SP2,"ugh Like when your shoes are wet
 "
-215,SP1,"Yeah that made sense 
+215,SP1,"My shoes are soaked right now
 "
-216,SP2,"It's just too gross out 
+216,SP2,"You can't do anything
 "
-217,SP1,"tried to go to the gym but when I got there I was soaked so like it ruined the whole gym experience 
+217,SP1,"It's terrible
 "
-218,SP2,"ugh Like when your shoes are wet 
+218,SP2,"I just reali I forgot that I packed my rain boots so I just pulled 'em out today
 "
-219,SP1,"My shoes are soaked right now 
+219,SP1,"Really
 "
-220,SP2,"You can't do anything 
+220,SP2,"Yeah
 "
-221,SP1,"It's terrible 
+221,SP1,"I don't have rain boots I do have a contact that's hurting but that's okay
 "
-222,SP2,"I just reali I forgot that I packed my rain boots so I just pulled 'em out today 
+222,SP2,"oh no
 "
-223,SP1,"Really 
+223,SP1,"It'll be fine it happens like when I get rainwater in my eye
 "
-224,SP2,"Yeah 
+224,SP1,"You know typical things
 "
-225,SP1,"I don't have rain boots I do have a contact that's hurting but that's okay 
+225,SP2,"I know my g ay my contacts I wear contacts too they're a lifesaver
 "
-226,SP2,"oh no 
+226,SP2,"I hate when I hate glasses
 "
-227,SP1,"It'll be fine it happens like when I get rainwater in my eye 
+227,SP1,"Yeah
 "
-228,SP1,"You know typical things 
+228,SP1,"I hate glasses too but I have 'em in case I need them
 "
-229,SP2,"I know my g ay my contacts I wear contacts too they're a lifesaver 
+229,SP2,"Yeah
 "
-230,SP2,"I hate when I hate glasses 
+230,SP2,"yeah
 "
-231,SP1,"Yeah 
+231,SP1,"One day I forgot to take my contacts out at night
 "
-232,SP1,"I hate glasses too but I have 'em in case I need them 
+232,SP2,"oh
 "
-233,SP2,"Yeah 
+233,SP1,"And I woke up my eyes were like totally bloodshot
 "
-234,SP2,"yeah 
+234,SP2,"I hate that
 "
-235,SP1,"One day I forgot to take my contacts out at night 
+235,SP1,"So when I took my contacts out like I just started like with my glasses on
 "
-236,SP2,"oh 
+236,SP2,"mhm
 "
-237,SP1,"And I woke up my eyes were like totally bloodshot 
+237,SP1,"I went downstairs and someonoe was like are you okay like they thought I was like really in really bad shape I'm like no I just didn't take my contacts out overnight but like people were looking at me really funny all day
 "
-238,SP2,"I hate that 
+238,SP2,"Yeah
 "
-239,SP1,"So when I took my contacts out like I just started like with my glasses on 
+239,SP1,"I t was like are you are you good like my teacher pulled me aside after class
 "
-240,SP2,"mhm 
+240,SP2,"oh no
 "
-241,SP1,"I went downstairs and someonoe was like are you okay like they thought I was like really in really bad shape I'm like no I just didn't take my contacts out overnight but like people were looking at me really funny all day 
+241,SP1,"and asked me if I was um doing okay I'm like yeah I just it's not that big a d it's fine
 "
-242,SP2,"Yeah 
+242,SP2,"just forgot my contacts
 "
-243,SP1,"I t was like are you are you good like my teacher pulled me aside after class 
+243,SP1,"Yeah
 "
-244,SP2,"oh no 
+244,SP2,"No I like I've done that before and then I wake up and I'm like oh I can see now and then and then it's a disappointment when I would like have to take them out
 "
-245,SP1,"and asked me if I was um doing okay I'm like yeah I just it's not that big a d it's fine 
+245,SP1,"hmm
 "
-246,SP2,"just forgot my contacts 
+246,SP1,"What happens
 "
-247,SP1,"Yeah 
+247,SP2,"I hate it
 "
-248,SP2,"No I like I've done that before and then I wake up and I'm like oh I can see now and then and then it's a disappointment when I would like have to take them out 
+248,SP1,"It's a miracle
 "
-249,SP1,"hmm 
+249,SP2,"I know
 "
-250,SP1,"What happens 
+250,SP1,"Yeah I don't know contacts are annoying but better than glasses
 "
-251,SP2,"I hate it 
+251,SP2,"Yes
 "
-252,SP1,"It's a miracle 
+252,SP1,"Yeah
 "
-253,SP2,"I know 
+253,SP2,"like I just hate Wallich you can't see everything with glasses
 "
-254,SP1,"Yeah I don't know contacts are annoying but better than glasses 
+254,SP1,"it's the peripheral vision that's thrown off
 "
-255,SP2,"Yes 
+255,SP2,"Yeah and like when I'm like especially when I'm going downstair like walking downstairs with them on
 "
-256,SP1,"Yeah 
+256,SP1,"oh Yeah
 "
-257,SP2,"like I just hate Wallich you can't see everything with glasses 
+257,SP2,"cause then I
 "
-258,SP1,"it's the peripheral vision that's thrown off 
+258,SP1,"they shake a little bit ansd said
 "
-259,SP2,"Yeah and like when I'm like especially when I'm going downstair like walking downstairs with them on 
+259,SP2,"Yeah and like I'll see through my glasses and then I'll also see like
 "
-260,SP1,"oh Yeah 
+260,SP2,"with my glasses off like
 "
-261,SP2,"cause then I 
+261,SP1,"Yeah like
 "
-262,SP1,"they shake a little bit ansd said 
+262,SP2,"When I looked down down like I can't see anything it's just blurry
 "
-263,SP2,"Yeah and like I'll see through my glasses and then I'll also see like 
+263,SP1,"You'll see like just below anything at it's awful
 "
-264,SP2,"with my glasses off like 
+264,SP2,"Then I get thrown off
 "
-265,SP1,"Yeah like 
+265,SP1,"Even worse so like before I wore contacts like the glasses made sense but now that I've worn contacts f for a good amount of time now When I put the glasses on everything is like so different
 "
-266,SP2,"When I looked down down like I can't see anything it's just blurry 
+266,SP2,"Yeah
 "
-267,SP1,"You'll see like just below anything at it's awful 
+267,SP2,"Yeah like you can't go back
 "
-268,SP2,"Then I get thrown off 
+268,SP1,"Yeah I do every once in a while because I have to
 "
-269,SP1,"Even worse so like before I wore contacts like the glasses made sense but now that I've worn contacts f for a good amount of time now When I put the glasses on everything is like so different 
+269,SP2,"It's a weird
 "
-270,SP2,"Yeah 
+270,SP2,"mhm
 "
-271,SP2,"Yeah like you can't go back 
+271,SP1,"But like
 "
-272,SP1,"Yeah I do every once in a while because I have to 
+272,SP1,"It's so weird
 "
-273,SP2,"It's a weird 
+273,SP2,"Yeah it's like getting your eyes a break or whatever they say but like I I'm like no that's not happening
 "
-274,SP2,"mhm 
+274,SP1,"Yeah it's it is what it is
 "
-275,SP1,"But like 
+275,SP2,"Yeah
 "
-276,SP1,"It's so weird 
+276,SP1,"Yeah even worse is like when you go a couple days in a row where you've like stayed up too late and wear the contacts for a long period of time
 "
-277,SP2,"Yeah it's like getting your eyes a break or whatever they say but like I I'm like no that's not happening 
+277,SP2,"Yeah
 "
-278,SP1,"Yeah it's it is what it is 
+278,SP1,"And then like your eyes are just generally bloodshot
 "
-279,SP2,"Yeah 
+279,SP2,"I know
 "
-280,SP1,"Yeah even worse is like when you go a couple days in a row where you've like stayed up too late and wear the contacts for a long period of time 
+280,SP1,"It's awful
 "
-281,SP2,"Yeah 
+281,SP2,"And I hate the like the dry feeling
 "
-282,SP1,"And then like your eyes are just generally bloodshot 
+282,SP1,"Yeah
 "
-283,SP2,"I know 
+283,SP2,"Like when you keep them in and it's just like they kind of get like stuck to your eye
 "
-284,SP1,"It's awful 
+284,SP1,"Yeah yeah
 "
-285,SP2,"And I hate the like the dry feeling 
+285,SP2,"It sucks
 "
-286,SP1,"Yeah 
+286,SP1,"One time I um tried to take my contact out my contact must have fallen out though so like I'm just pulling out my eye for like thirty minutes
 "
-287,SP2,"Like when you keep them in and it's just like they kind of get like stuck to your eye 
+287,SP2,"oh no
 "
-288,SP1,"Yeah yeah 
+288,SP1,"I was like panicking because I was at a concert so like I got home and I went to take them Out I just didn't have one of them in they were just must have fallen out
 "
-289,SP2,"It sucks 
+289,SP2,"that's so funny
 "
-290,SP1,"One time I um tried to take my contact out my contact must have fallen out though so like I'm just pulling out my eye for like thirty minutes 
+290,SP1,"The scariest part is that I drove home like I drove home with only one contact in and don't even notice
 "
-291,SP2,"oh no 
+291,SP2,"That's so weir is there what's your prescription is it that
 "
-292,SP1,"I was like panicking because I was at a concert so like I got home and I went to take them Out I just didn't have one of them in they were just must have fallen out 
+292,SP1,"it's not that bad but I have like a really bad astigmatism
 "
-293,SP2,"that's so funny 
+293,SP2,"uh huh
 "
-294,SP1,"The scariest part is that I drove home like I drove home with only one contact in and don't even notice 
+294,SP1,"so
 "
-295,SP2,"That's so weir is there what's your prescription is it that 
+295,SP2,"Okay
 "
-296,SP1,"it's not that bad but I have like a really bad astigmatism 
+296,SP1,"I should noticed it would've thrown me off
 "
-297,SP2,"uh huh 
+297,SP1,"but I don't know
 "
-298,SP1,"so 
+298,SP2,"That's funny
 "
-299,SP2,"Okay 
+299,SP1,"I I didn't notice
 "
-300,SP1,"I should noticed it would've thrown me off 
+300,SP2,"Yeah I couldn't do that my eyes are too bad
 "
-301,SP1,"but I don't know 
+301,SP1,"Yeah
 "
-302,SP2,"That's funny 
+302,SP2,"I like
 "
-303,SP1,"I I didn't notice 
+303,SP1,"Happens
 "
-304,SP2,"Yeah I couldn't do that my eyes are too bad 
+304,SP2,"I wanna get Lazic but it scares me
 "
-305,SP1,"Yeah 
+305,SP1,"It was a little scary
 "
-306,SP2,"I like 
+306,SP2,"it's a lil s
 "
-307,SP1,"Happens 
+307,SP1,"Putting lasers in yeah
 "
-308,SP2,"I wanna get Lazic but it scares me 
+308,SP2,"I know I'm way too scared not till I'm way older
 "
-309,SP1,"It was a little scary 
+309,SP1,"Yeah I was scared of contacts forever if I contact like six months like
 "
-310,SP2,"it's a lil s 
+310,SP2,"oh really
 "
-311,SP2,"
+311,SP1,"I had like an enormous unnecessary fear for like poking my eyes
 "
-312,SP1,"Putting lasers in yeah 
+312,SP2,"That's so i interesting
 "
-313,SP2,"I know I'm way too scared not till I'm way older 
+313,SP1,"um Like I had nothing to cause the fear
 "
-314,SP1,"Yeah I was scared of contacts forever if I contact like six months like 
+314,SP2,"Uh huh
 "
-315,SP2,"oh really 
+315,SP1,"I just had that fear
 "
-316,SP1,"I had like an enormous unnecessary fear for like poking my eyes 
+316,SP2,"That's so weird
 "
-317,SP2,"That's so i interesting 
+317,SP1,"Uhm but then I was like fuck it I'll get contacts and that's definitely on video
 "
-318,SP1,"um Like I had nothing to cause the fear 
+318,SP2,"Like the con it's like the conditioning or whatever
 "
-319,SP2,"Uh huh 
+319,SP1,"yeah finishing
 "
-320,SP1,"I just had that fear 
+320,SP2,"Yeah
 "
-321,SP2,"That's so weird 
+321,SP1,"yeah
 "
-322,SP1,"Uhm but then I was like fuck it I'll get contacts and that's definitely on video 
+322,SP2,"That's so funny I got it when I was like
 "
-323,SP2,"Like the con it's like the conditioning or whatever 
+323,SP2,"Ten
 "
-324,SP1,"yeah finishing 
+324,SP2,"Nine or ten cause I needed 'em for soccer cause like I couldn't
 "
-325,SP1,"
+325,SP1,"Yeah I should on that
 "
-326,SP2,"Yeah 
+326,SP1,"my makes sense
 "
-327,SP1,"yeah 
+327,SP2,"I didn't want to wear the like goggles
 "
-328,SP2,"That's so funny I got it when I was like 
+328,SP1,"see I just wore the my regular glasses when I played soccer when I was younger
 "
-329,SP2,"Ten 
+329,SP2,"uh huh
 "
-330,SP2,"Nine or ten cause I needed 'em for soccer cause like I couldn't 
+330,SP1,"and they would always like fall off or I'd get hit in the face the ball
 "
-331,SP1,"Yeah I should on that 
+331,SP2,"Yeah
 "
-332,SP1,"my makes sense 
+332,SP1,"like I couldn't do headers like
 "
-333,SP2,"I didn't want to wear the like goggles 
+333,SP2,"Yeah
 "
-334,SP1,"see I just wore the my regular glasses when I played soccer when I was younger 
+334,SP1,"I lost a whole point of the game
 "
-335,SP2,"uh huh 
+335,SP2,"Exactly
 "
-336,SP1,"and they would always like fall off or I'd get hit in the face the ball 
+336,SP1,"Actually every sport I played a somehow at some point either break a pair of glasses or get hit in the face or like
 "
-337,SP2,"Yeah 
+337,SP2,"Yeah
 "
-338,SP1,"like I couldn't do headers like 
+338,SP1,"something always went wrong
 "
-339,SP2,"Yeah 
+339,SP2,"Yeah
 "
-340,SP1,"I lost a whole point of the game 
+340,SP1,"yeah
 "
-341,SP2,"Exactly 
+341,SP2,"that's so f
 "
-342,SP1,"Actually every sport I played a somehow at some point either break a pair of glasses or get hit in the face or like 
+342,SP1,"except for cross country I never had problems with glasses in cross country
 "
-343,SP2,"Yeah 
+343,SP2,"No
 "
-344,SP1,"something always went wrong 
+344,SP2,"do you still do are you still playing any sports
 "
-345,SP2,"Yeah 
+345,SP1,"uh no I'm really good at getting hurt
 "
-346,SP1,"yeah 
+346,SP2,"No
 "
-347,SP2,"that's so f 
+347,SP2,"What have you at what are you injured
 "
-348,SP1,"except for cross country I never had problems with glasses in cross country 
+348,SP1,"I've injured like everything you can name a bone or place in my body I've hurt it
 "
-349,SP2,"No 
+349,SP2,"oh gosh really
 "
-350,SP2,"do you still do are you still playing any sports 
+350,SP1,"It's yeah most likely doing something clumsy not even not even playing sports
 "
-351,SP1,"uh no I'm really good at getting hurt 
+351,SP2,"That's f
 "
-352,SP2,"No 
+352,SP1,"Like I had three concussions in a month once
 "
-353,SP2,"What have you at what are you injured 
+353,SP2,"not good
 "
-354,SP1,"I've injured like everything you can name a bone or place in my body I've hurt it 
+354,SP1,"I don't play any contact sports
 "
-355,SP2,"oh gosh really 
+355,SP2,"what
 "
-356,SP1,"It's yeah most likely doing something clumsy not even not even playing sports 
+356,SP1,"Yeah
 "
-357,SP2,"That's f 
+357,SP2,"how
 "
-358,SP1,"Like I had three concussions in a month once 
+358,SP1,"well first one I got in choior
 "
-359,SP2,"not good 
+359,SP2,"Okay
 "
-360,SP1,"I don't play any contact sports 
+360,SP1,"Um my friend accidentally hti me in the head
 "
-361,SP2,"what 
+361,SP2,"oh gosh
 "
-362,SP1,"Yeah 
+362,SP1,"So it was a small one the day I came back from that concussion someone hit me in the face with a basketball just like down like in the hall um the day I came back from that concussion I tripped and fell hit my head on a metal pole
 "
-363,SP2,"how 
+363,SP2,"That's such bad luck
 "
-364,SP1,"well first one I got in choior 
+364,SP1,"Yeah it's fine I mean it's tough I couldn't have lost that much brain cells
 "
-365,SP2,"Okay 
+365,SP2,"My friend had one and she was out of school for like two months
 "
-366,SP1,"Um my friend accidentally hti me in the head 
+366,SP1,"Damn
 "
-367,SP2,"oh gosh 
+367,SP2,"it was terrible
 "
-368,SP1,"So it was a small one the day I came back from that concussion someone hit me in the face with a basketball just like down like in the hall um the day I came back from that concussion I tripped and fell hit my head on a metal pole 
+368,SP1,"Was a sports concussion though
 "
-369,SP2,"That's such bad luck 
+369,SP2,"Yeah so she was heading the she's a center back
 "
-370,SP1,"Yeah it's fine I mean it's tough I couldn't have lost that much brain cells 
+370,SP1,"That makes sense
 "
-371,SP2,"My friend had one and she was out of school for like two months 
+371,SP1,"Okay
 "
-372,SP1,"Damn 
+372,SP2,"And she was heading the ball and like it hit her too high up instead of on the forehead
 "
-373,SP2,"it was terrible 
+373,SP1,"that makes sense
 "
-374,SP1,"Was a sports concussion though 
+374,SP2,"And she lost s like it was during our junior junior year of high school and she couldn't play or she couldn't she stopped playing after she got the concussion cause she was too afraid and then she like it affected all her like ACTs SATs and like all of our classes
 "
-375,SP1,"
+375,SP1,"Yeah
 "
-376,SP2,"Yeah so she was heading the she's a center back 
+376,SP1,"that's awful
 "
-377,SP1,"That makes sense 
+377,SP2,"She made it to Duke so I think she's doing okay
 "
-378,SP1,"Okay 
+378,SP1,"I think she's doing fine
 "
-379,SP2,"And she was heading the ball and like it hit her too high up instead of on the forehead 
+379,SP2,"Doesn't really matter
 "
-380,SP1,"that makes sense 
+380,SP1,"yeah
 "
-381,SP2,"And she lost s like it was during our junior junior year of high school and she couldn't play or she couldn't she stopped playing after she got the concussion cause she was too afraid and then she like it affected all her like ACTs SATs and like all of our classes 
+381,SP2,"It worked out
 "
-382,SP1,"Yeah 
+382,SP1,"at least it worked out
 "
-383,SP1,"that's awful 
+383,SP2,"Injuries suck though
 "
-384,SP2,"She made it to Duke so I think she's doing okay 
+384,SP1,"Yeah I hate getting injured
 "
-385,SP1,"I think she's doing fine 
+385,SP2,"Yeah I'm sca I've been knock on wood I've been fortunate enough not to have
 "
-386,SP2,"Doesn't really matter 
+386,SP1,"is this wood
 "
-387,SP1,"yeah 
+387,SP2,"I don't even know not to have major stuff but like even like little injuries I've had a concussion before
 "
-388,SP2,"It worked out 
+388,SP1,"Yeah
 "
-389,SP1,"at least it worked out 
+389,SP2,"But
 "
-390,SP2,"Injuries suck though 
+390,SP1,"none of my c my three concussions were major so like
 "
-391,SP1,"Yeah I hate getting injured 
+391,SP2,"Yeah
 "
-392,SP2,"Yeah I'm sca I've been knock on wood I've been fortunate enough not to have 
+392,SP1,"I was out of school for like a week each
 "
-393,SP1,"is this wood 
+393,SP2,"uh huh
 "
-394,SP2,"I don't even know not to have major stuff but like even like little injuries I've had a concussion before 
+394,SP1,"um but the three in a row was what the problem was
 "
-395,SP1,"Yeah 
+395,SP2,"Yeah that sets you back a lot
 "
-396,SP2,"But 
+396,SP1,"yeah
 "
-397,SP1,"none of my c my three concussions were major so like 
+397,SP1,"it's okay it was my freshman year so I was I didn't have that much to do
 "
-398,SP2,"Yeah 
+398,SP2,"oh
 "
-399,SP1,"I was out of school for like a week each 
+399,SP2,"that's not bad
 "
-400,SP2,"uh huh 
+400,SP1,"Yeah
 "
-401,SP1,"um but the three in a row was what the problem was 
+401,SP2,"Are you doing any like other activities
 "
-402,SP2,"Yeah that sets you back a lot 
+402,SP1,"um
 "
-403,SP1,"yeah 
+403,SP2,"at school
 "
-404,SP1,"it's okay it was my freshman year so I was I didn't have that much to do 
+404,SP1,"I tried to do acapella
 "
-405,SP2,"oh 
+405,SP2,"Okay
 "
-406,SP2,"that's not bad 
+406,SP1,"Didn't get in
 "
-407,SP1,"Yeah 
+407,SP2,"okay
 "
-408,SP2,"Are you doing any like other activities 
+408,SP1,"Um try to do the cheap socks didn't get into that
 "
-409,SP1,"um 
+409,SP2,"What
 "
-410,SP2,"at school 
+410,SP1,"it's improv
 "
-411,SP1,"I tried to do acapella 
+411,SP2,"what's that
 "
-412,SP2,"Okay 
+412,SP1,"it's improv
 "
-413,SP1,"Didn't get in 
+413,SP2,"oh okay
 "
-414,SP2,"okay 
+414,SP1,"um so now I'm in comedy
 "
-415,SP1,"Um try to do the cheap socks didn't get into that 
+415,SP2,"Cool
 "
-416,SP2,"What 
+416,SP1,"um which is I guess the third tier thing
 "
-417,SP2,"
+417,SP2,"Yeah that's so fun
 "
-418,SP1,"it's improv 
+418,SP1,"so yeah
 "
-419,SP2,"what's that 
+419,SP2,"So cool
 "
-420,SP1,"it's improv 
+420,SP1,"it's exciting
 "
-421,SP2,"oh okay 
+421,SP2,"Yeah
 "
-422,SP1,"um so now I'm in comedy 
+422,SP2,"is it like new for you or have you done comedy before
 "
-423,SP2,"Cool 
+423,SP1,"I'm
 "
-424,SP1,"um which is I guess the third tier thing 
+424,SP1,"I've done comedy before just it's been a while
 "
-425,SP2,"Yeah that's so fun 
+425,SP2,"uh huh
 "
-426,SP1,"so yeah 
+426,SP1,"Like I did comedy when I was like thirteen
 "
-427,SP2,"So cool 
+427,SP2,"Okay
 "
-428,SP1,"it's exciting 
+428,SP1,"and like before I had any idea of what was actually funny
 "
-429,SP2,"Yeah 
+429,SP2,"Yeah
 "
-430,SP2,"is it like new for you or have you done comedy before 
+430,SP1,"um So now it's different like I'm writing jokes like all the time
 "
-431,SP1,"I'm 
+431,SP2,"uh huh
 "
-432,SP1,"I've done comedy before just it's been a while 
+432,SP1,"now cause it's just finally I'll think of something funny and I'll write it down where as before I wouldn't think to write that down I would just like
 "
-433,SP2,"uh huh 
+433,SP2,"Yeah
 "
-434,SP1,"Like I did comedy when I was like thirteen 
+434,SP1,"Think of something funny
 "
-435,SP2,"Okay 
+435,SP2,"That's so fun
 "
-436,SP1,"and like before I had any idea of what was actually funny 
+436,SP2,"that's so interesting
 "
-437,SP2,"Yeah 
+437,SP1,"So
 "
-438,SP1,"um So now it's different like I'm writing jokes like all the time 
+438,SP1,"yeah even better is when I actually have the tell the jokes um because sometimes I'll just write down a a key word
 "
-439,SP2,"uh huh 
+439,SP2,"Yeah
 "
-440,SP1,"now cause it's just finally I'll think of something funny and I'll write it down where as before I wouldn't think to write that down I would just like 
+440,SP1,"like a like a word that if anyone read it like they would have no idea what I possibly mean by that
 "
-441,SP2,"Yeah 
+441,SP2,"Yeah
 "
-442,SP1,"Think of something funny 
+442,SP1,"and then sometimes I'll forget what they mean
 "
-443,SP2,"That's so fun 
+443,SP2,"Uh huh
 "
-444,SP2,"that's so interesting 
+444,SP1,"and it ruins the whole joke I'll just be like binoculars I don't know that joke is like
 "
-445,SP1,"So 
+445,SP2,"Is it like scripted when you do it or is it more
 "
-446,SP1,"yeah even better is when I actually have the tell the jokes um because sometimes I'll just write down a a key word 
+446,SP1,"Some of it's scripted mostly not though it's mostly like I've written like part of a joke down and I'll like no matter how I tell it that's the joke is
 "
-447,SP2,"Yeah 
+447,SP2,"Okay
 "
-448,SP1,"like a like a word that if anyone read it like they would have no idea what I possibly mean by that 
+448,SP1,"I try to write as little as possible down so I can like consolidate space
 "
-449,SP2,"Yeah 
+449,SP2,"uh huh
 "
-450,SP1,"and then sometimes I'll forget what they mean 
+450,SP1,"Um but other jokes have to be scripted because I can't be told otherwise
 "
-451,SP2,"Uh huh 
+451,SP2,"Yeah so like tonight when you go to the thing will you like have a set like something like prepared for it or is it more just like you'll go up there and
 "
-452,SP1,"and it ruins the whole joke I'll just be like binoculars I don't know that joke is like 
+452,SP1,"I'm gonna try to I'm gonna try to do it memorized
 "
-453,SP2,"Is it like scripted when you do it or is it more 
+453,SP2,"Okay
 "
-454,SP1,"Some of it's scripted mostly not though it's mostly like I've written like part of a joke down and I'll like no matter how I tell it that's the joke is 
+454,SP1,"um but I have a s I have a set prepared kind of
 "
-455,SP2,"Okay 
+455,SP2,"Yeah
 "
-456,SP1,"I try to write as little as possible down so I can like consolidate space 
+456,SP1,"um I haven't really memorized it but I should start doing it some point
 "
-457,SP2,"uh huh 
+457,SP2,"In the next hour
 "
-458,SP1,"Um but other jokes have to be scripted because I can't be told otherwise 
+458,SP2,"Or so
 "
-459,SP2,"Yeah so like tonight when you go to the thing will you like have a set like something like prepared for it or is it more just like you'll go up there and 
+459,SP1,"Yeah I'll figure it out
 "
-460,SP1,"I'm gonna try to I'm gonna try to do it memorized 
+460,SP2,"yeah
 "
-461,SP2,"Okay 
+461,SP1,"I haven't done a show memorized yet
 "
-462,SP1,"um but I have a s I have a set prepared kind of 
+462,SP2,"mhm
 "
-463,SP2,"Yeah 
+463,SP1,"so I wanted to do one
 "
-464,SP1,"um I haven't really memorized it but I should start doing it some point 
+464,SP2,"feel like that would be hard it's more important I feel like to get the joke down
 "
-465,SP2,"In the next hour 
+465,SP1,"Yeah
 "
-466,SP2,"Or so 
+466,SP2,"Right maybe
 "
-467,SP1,"Yeah I'll figure it out 
+467,SP1,"I'll probably be telling jokes I've already told tonight
 "
-468,SP2,"yeah 
+468,SP2,"I don't know
 "
-469,SP1,"I haven't done a show memorized yet 
+469,SP2,"Yeah
 "
-470,SP2,"mhm 
+470,SP1,"Um but it's a new audience so they haven't heard 'em
 "
-471,SP1,"so I wanted to do one 
+471,SP2,"That's cool
 "
-472,SP2,"feel like that would be hard it's more important I feel like to get the joke down 
+472,SP1,"Yeah
 "
-473,SP1,"Yeah 
+473,SP2,"Never heard of that here I'll have to go sometimes is every week
 "
-474,SP2,"Right maybe 
+474,SP1,"I don't know um it's this week for sure
 "
-475,SP1,"I'll probably be telling jokes I've already told tonight 
+475,SP1,"it's not been every week
 "
-476,SP2,"I don't know 
+476,SP2,"mhm
 "
-477,SP2,"Yeah 
+477,SP1,"uh you should go tonight
 "
-478,SP1,"Um but it's a new audience so they haven't heard 'em 
+478,SP2,"I would but we have a team dinner thing
 "
-479,SP2,"That's cool 
+479,SP1,"that makes sense
 "
-480,SP1,"Yeah 
+480,SP1,"um   Sports
 "
-481,SP2,"Never heard of that here I'll have to go sometimes is every week 
+481,SP2,"We have a playoff game tomorrow
 "
-482,SP1,"I don't know um it's this week for sure 
+482,SP1,"really
 "
-483,SP1,"it's not been every week 
+483,SP2,"So if we l lose our season's over but if we win
 "
-484,SP2,"mhm 
+484,SP1,"you win you get another game
 "
-485,SP1,"uh you should go tonight 
+485,SP2,"we're s
 "
-486,SP2,"I would but we have a team dinner thing 
+486,SP2,"Yes we get another game
 "
-487,SP1,"that makes sense 
+487,SP1,"Yeah
 "
-488,SP1,"um   Sports 
+488,SP2,"Which is nerve wracking but exciting hopefully we do well
 "
-489,SP2,"We have a playoff game tomorrow 
+489,SP1,"that works
 "
-490,SP1,"really 
+490,SP1,"good luck
 "
-491,SP2,"So if we l lose our season's over but if we win 
+491,SP2,"Thank you
 "
-492,SP1,"you win you get another game 
+492,SP1,"what position do you play
 "
-493,SP2,"we're s 
+493,SP2,"I'm a forward
 "
-494,SP2,"Yes we get another game 
+494,SP1,"Forward okay
 "
-495,SP2,"
+495,SP2,"I got I just got moved I was playing outside mid all of high school and like outside back
 "
-496,SP1,"Yeah 
+496,SP1,"Okay
 "
-497,SP2,"Which is nerve wracking but exciting hopefully we do well 
+497,SP2,"And then on this team I'm just better fit up top
 "
-498,SP1,"that works 
+498,SP1,"that works
 "
-499,SP1,"good luck 
+499,SP2,"like I like the ball at my feet
 "
-500,SP2,"Thank you 
+500,SP2,"And like
 "
-501,SP1,"what position do you play 
+501,SP1,"that makes sense it's soccer
 "
-502,SP2,"I'm a forward 
+502,SP2,"Skills and stuff yeah I'm not like our outside minis are more runners
 "
-503,SP1,"Forward okay 
+503,SP1,"Okay
 "
-504,SP2,"I got I just got moved I was playing outside mid all of high school and like outside back 
+504,SP2,"Like
 "
-505,SP1,"Okay 
+505,SP1,"Yeah
 "
-506,SP2,"And then on this team I'm just better fit up top 
+506,SP2,"Just can go up and back all day and chase people down and that's just not
 "
-507,SP1,"that works 
+507,SP1,"Yeah
 "
-508,SP2,"like I like the ball at my feet 
+508,SP2,"My best like that's not my skill set
 "
-509,SP2,"And like 
+509,SP1,"Yeah I mostly played outside many when I played soccer or goalie
 "
-510,SP1,"that makes sense it's soccer 
+510,SP2,"Yeah
 "
-511,SP2,"Skills and stuff yeah I'm not like our outside minis are more runners 
+511,SP1,"so
 "
-512,SP1,"Okay 
+512,SP2,"oh goalie
 "
-513,SP2,"Like 
+513,SP1,"Yeah a goalie for awhile
 "
-514,SP1,"Yeah 
+514,SP2,"That's neat
 "
-515,SP2,"Just can go up and back all day and chase people down and that's just not 
+515,SP1,"but they make uh I was in the travel team to me another better goalie
 "
-516,SP1,"Yeah 
+516,SP2,"uhuh
 "
-517,SP2,"My best like that's not my skill set 
+517,SP1,"from a different town who joined
 "
-518,SP1,"Yeah I mostly played outside many when I played soccer or goalie 
+518,SP2,"oh okay
 "
-519,SP2,"Yeah 
+519,SP1,"so I didn't play goalie after that
 "
-520,SP1,"so 
+520,SP2,"Yeah
 "
-521,SP2,"oh goalie 
+521,SP1,"uh cause I cann't compete this kids ridiculously good at goalie he got recruited so
 "
-522,SP1,"Yeah a goalie for awhile 
+522,SP2,"oh cool
 "
-523,SP2,"That's neat 
+523,SP1,"um
 "
-524,SP1,"but they make uh I was in the travel team to me another better goalie 
+524,SP1,"But I quit way before that
 "
-525,SP2,"uhuh 
+525,SP2,"Yeah
 "
-526,SP1,"from a different town who joined 
+526,SP1,"Yeah
 "
-527,SP2,"oh okay 
+527,SP2,"How long did you play
 "
-528,SP1,"so I didn't play goalie after that 
+528,SP1,"I played for like five or six years but I quit when I was like fourteen
 "
-529,SP2,"Yeah 
+529,SP2,"oh cool
 "
-530,SP1,"uh cause I cann't compete this kids ridiculously good at goalie he got recruited so 
+530,SP2,"okay
 "
-531,SP2,"oh cool 
+531,SP1,"Like just before high school
 "
-532,SP1,"um 
+532,SP2,"Gotcha did you play any sports in high school or no
 "
-533,SP1,"But I quit way before that 
+533,SP1,"Um I did cross country  um
 "
-534,SP2,"Yeah 
+534,SP2,"Okay
 "
-535,SP1,"Yeah 
+535,SP1,"Because I'm good at getting hurt I wanted to find a sport I couldn't get hurt in
 "
-536,SP2,"How long did you play 
+536,SP2,"Yeah
 "
-537,SP1,"I played for like five or six years but I quit when I was like fourteen 
+537,SP1,"I was wrong
 "
-538,SP2,"oh cool 
+538,SP2,"No
 "
-539,SP2,"okay 
+539,SP1,"Now
 "
-540,SP1,"Like just before high school 
+540,SP2,"oh I feel like they'd kill your body
 "
-541,SP2,"Gotcha did you play any sports in high school or no 
+541,SP2,"or anyone's body
 "
-542,SP1,"Um I did cross country  um 
+542,SP1,"Yeah
 "
-543,SP2,"Okay 
+543,SP1,"it was tougher than I thought
 "
-544,SP1,"Because I'm good at getting hurt I wanted to find a sport I couldn't get hurt in 
+544,SP2,"yeah
 "
-545,SP2,"Yeah 
+545,SP1,"Um I was a good cheerleader though on crutches
 "
-546,SP1,"I was wrong 
+546,SP2,"What do you do what you heard
 "
-547,SP2,"No 
+547,SP1,"um
 "
-548,SP1,"Now 
+548,SP1,"The last time I ever did cross country um I got a stress fracture in my right foot and double shin splints
 "
-549,SP2,"oh I feel like they'd kill your body 
+549,SP2,"My gosh
 "
-550,SP2,"or anyone's body 
+550,SP1,"so
 "
-551,SP1,"Yeah 
+551,SP2,"The shins ones I feel like I've heard are probably the worst thing
 "
-552,SP1,"it was tougher than I thought 
+552,SP1,"yeah
 "
-553,SP2,"yeah 
+553,SP1,"Shin splints hurt but aren't like dangers injury wise
 "
-554,SP1,"Um I was a good cheerleader though on crutches 
+554,SP2,"Yeah like they can't get worse
 "
-555,SP2,"What do you do what you heard 
+555,SP1,"just yeah
 "
-556,SP1,"um 
+556,SP1,"they're not gonna get any worse
 "
-557,SP1,"The last time I ever did cross country um I got a stress fracture in my right foot and double shin splints 
+557,SP2,"They're just painful
 "
-558,SP2,"My gosh 
+558,SP1,"the worst that could happen
 "
-559,SP1,"so 
+559,SP1,"Like is if you like hit your shin on something while you had shin splints
 "
-560,SP2,"The shins ones I feel like I've heard are probably the worst thing 
+560,SP2,"mhm
 "
-561,SP1,"yeah 
+561,SP1,"then you could get a fracture cause your shins are weaker
 "
-562,SP1,"Shin splints hurt but aren't like dangers injury wise 
+562,SP2,"Yep
 "
-563,SP2,"Yeah like they can't get worse 
+563,SP1,"but it's mostly just pain
 "
-564,SP1,"just yeah 
+564,SP2,"mhm
 "
-565,SP1,"they're not gonna get any worse 
+565,SP2,"Where was this the stress factor
 "
-566,SP2,"They're just painful 
+566,SP1,"so
 "
-567,SP1,"the worst that could happen 
+567,SP1,"In my foot name is was in the um
 "
-568,SP1,"Like is if you like hit your shin on something while you had shin splints 
+568,SP2,"Okay
 "
-569,SP2,"mhm 
+569,SP1,"I'm not a lateral something on my foot
 "
-570,SP1,"then you could get a fracture cause your shins are weaker 
+570,SP2,"mm
 "
-571,SP2,"Yep 
+571,SP1,"it was fine
 "
-572,SP1,"but it's mostly just pain 
+572,SP2,"I know a lot of girls who've gotten stress fractures like from over use and that sort of thing
 "
-573,SP2,"mhm 
+573,SP1,"Well yeah um when you run every day eventually Eventually it hits too much in some people
 "
-574,SP2,"Where was this the stress factor 
+574,SP2,"oh It's too much
 "
-575,SP1,"so 
+575,SP2,"Yeah and our feet feet are so important
 "
-576,SP1,"In my foot name is was in the um 
+576,SP1,"Yeah you know you forget how how easy it walking is until you're like hurt
 "
-577,SP2,"Okay 
+577,SP2,"Yeah
 "
-578,SP1,"I'm not a lateral something on my foot 
+578,SP1,"like I
 "
-579,SP2,"mm 
+579,SP1,"at the time like I thought everything was normal and then I got hurt and I was like shit it's so slow like I was so slow getting places
 "
-580,SP1,"it was fine 
+580,SP2,"Yeah
 "
-581,SP2,"I know a lot of girls who've gotten stress fractures like from over use and that sort of thing 
+581,SP1,"I hated that like I'd be late to class and be like our I'm like I'm on crutches give me a break
 "
-582,SP1,"Well yeah um when you run every day eventually Eventually it hits too much in some people 
+582,SP2,"Yeah like you take it for gra it gets taken for granted
 "
-583,SP2,"oh It's too much 
+583,SP1,"Yeah I don't know it is what is
 "
-584,SP2,"Yeah and our feet feet are so important 
+584,SP2,"Yeah
 "
-585,SP1,"Yeah you know you forget how how easy it walking is until you're like hurt 
+585,SP1,"um b
 "
-586,SP2,"Yeah 
+586,SP1,"I've learned a lot from being hurt
 "
-587,SP1,"like I 
+587,SP2,"Yeah
 "
-588,SP1,"at the time like I thought everything was normal and then I got hurt and I was like shit it's so slow like I was so slow getting places 
+588,SP1,"oh resilience and stuff like that
 "
-589,SP2,"Yeah 
+589,SP2,"Definitely it's a big it's very important
 "
-590,SP1,"I hated that like I'd be late to class and be like our I'm like I'm on crutches give me a break 
+590,SP1,"I've learned how to quit things that I can't do without getting hurt
 "
-591,SP2,"Yeah like you take it for gra it gets taken for granted 
+591,SP2,"mhm
 "
-592,SP1,"Yeah I don't know it is what is 
+592,SP1,"like cross country
 "
-593,SP2,"Yeah 
+593,SP2,"Cross country
 "
-594,SP1,"um b 
+594,SP1,"Yeah
 "
-595,SP1,"I've learned a lot from being hurt 
+595,SP2,"I don't know I'm n I don't know anybody on cross country here
 "
-596,SP2,"Yeah 
+596,SP1,"I also don't
 "
-597,SP1,"oh resilience and stuff like that 
+597,SP2,"Feel like there's a couple swimmers in my hole
 "
-598,SP2,"Definitely it's a big it's very important 
+598,SP1,"Okay
 "
-599,SP1,"I've learned how to quit things that I can't do without getting hurt 
+599,SP2,"a f couple football players some basketball basketball players
 "
-600,SP2,"mhm 
+600,SP1,"kay
 "
-601,SP1,"like cross country 
+601,SP2,"Feel like Hill has a lot of athletes just cause it's like stays open through the winter
 "
-602,SP2,"Cross country 
+602,SP1,"Yeah
 "
-603,SP2,"
+603,SP1,"That makes sense
 "
-604,SP1,"Yeah 
+604,SP2,"But I don't know
 "
-605,SP2,"I don't know I'm n I don't know anybody on cross country here 
+605,SP1,"People in Hodge like cause like one of my friends across the hall plays lacrosse but his roommates on the sailing team
 "
-606,SP1,"I also don't 
+606,SP2,"Okay
 "
-607,SP2,"Feel like there's a couple swimmers in my hole 
+607,SP2,"okay
 "
-608,SP1,"Okay 
+608,SP1,"And um another person down the hall is on the guys soccer team
 "
-609,SP2,"a f couple football players some basketball basketball players 
+609,SP2,"oh do you know his name
 "
-610,SP1,"kay 
+610,SP1,"Um his name is Sebastian
 "
-611,SP2,"Feel like Hill has a lot of athletes just cause it's like stays open through the winter 
+611,SP2,"sebastian I don't know him
 "
-612,SP1,"Yeah 
+612,SP1,"it's all good there's a lot of guys another guy it goes to the Olympics
 "
-613,SP1,"That makes sense 
+613,SP2,"oh wow
 "
-614,SP2,"But I don't know 
+614,SP1,"So at the um what's the thing called the what was the first thing we did in like O week ago like welcoming us whatever that was
 "
-615,SP1,"People in Hodge like cause like one of my friends across the hall plays lacrosse but his roommates on the sailing team 
+615,SP2,"They ca the ceremony
 "
-616,SP2,"Okay 
+616,SP1,"Yeah that
 "
-617,SP2,"okay 
+617,SP2,"or matriculation
 "
-618,SP1,"And um another person down the hall is on the guys soccer team 
+618,SP1,"Uh
 "
-619,SP2,"oh do you know his name 
+619,SP1,"matriculation that's what it was uh remember when they talked about the guy who wrote his essay about going to the olympics
 "
-620,SP1,"Um his name is Sebastian 
+620,SP2,"Yes
 "
-621,SP2,"sebastian I don't know him 
+621,SP1,"that's that guy
 "
-622,SP2,"
+622,SP2,"that's so cool
 "
-623,SP1,"it's all good there's a lot of guys another guy it goes to the Olympics 
+623,SP1,"Yeah
 "
-624,SP2,"oh wow 
+624,SP2,"That's so neat
 "
-625,SP1,"So at the um what's the thing called the what was the first thing we did in like O week ago like welcoming us whatever that was 
+625,SP1,"So
 "
-626,SP2,"They ca the ceremony 
+626,SP2,"Where is your who's your roommate where is he from
 "
-627,SP1,"Yeah that 
+627,SP1,"My roommate is from Long Island
 "
-628,SP2,"or matriculation 
+628,SP2,"Cool
 "
-629,SP1,"Uh 
+629,SP1,"how bout you
 "
-630,SP1,"matriculation that's what it was uh remember when they talked about the guy who wrote his essay about going to the olympics 
+630,SP2,"I'm in a forced triple
 "
-631,SP1,"
+631,SP1,"I was in a forced triple
 "
-632,SP2,"Yes 
+632,SP2,"You got out of it
 "
-633,SP1,"that's that guy 
+633,SP1,"No one of my roommates left so now it's a forced triple that's actually a double
 "
-634,SP2,"that's so cool 
+634,SP2,"That sound nice
 "
-635,SP1,"Yeah 
+635,SP1,"Yeah
 "
-636,SP2,"That's so neat 
+636,SP2,"My so one of them is from Manhattan
 "
-637,SP1,"So 
+637,SP1,"Okay
 "
-638,SP2,"Where is your who's your roommate where is he from 
+638,SP2,"And ones from Seattle so very very different
 "
-639,SP1,"My roommate is from Long Island 
+639,SP1,"Yeah
 "
-640,SP2,"Cool 
+640,SP2,"or not Manhattan she's from Brooklyn
 "
-641,SP1,"how bout you 
+641,SP1,"Both my roommates were from around the area cause one's from Somewhere in mass
 "
-642,SP1,"
+642,SP2,"Okay
 "
-643,SP2,"I'm in a forced triple 
+643,SP2,"uh huh
 "
-644,SP1,"I was in a forced triple 
+644,SP1,"I'm from connecticut my other roommates' from Long Island so we all met up in New York and went to a festival over the summer
 "
-645,SP2,"You got out of it 
+645,SP2,"oh what festival
 "
-646,SP2,"
+646,SP1,"Panorama
 "
-647,SP1,"No one of my roommates left so now it's a forced triple that's actually a double 
+647,SP2,"Okay
 "
-648,SP2,"That sound nice 
+648,SP1,"it was Exciting
 "
-649,SP1,"Yeah 
+649,SP2,"That's so fun
 "
-650,SP2,"My so one of them is from Manhattan 
+650,SP1,"Got rained out
 "
-651,SP1,"Okay 
+651,SP2,"oh
 "
-652,SP2,"And ones from Seattle so very very different 
+652,SP1,"Like crazy thunderstorms so
 "
-653,SP1,"Yeah 
+653,SP2,"That's unfortunate
 "
-654,SP2,"or not Manhattan she's from Brooklyn 
+654,SP1,"Didn't didn't get to see the weekend or maybe or anybody I wanted to see but that's okay
 "
-655,SP1,"Both my roommates were from around the area cause one's from Somewhere in mass 
+655,SP2,"Yeah another time maybe
 "
-656,SP2,"Okay 
+656,SP1,"Yeah it was worth it
 "
-657,SP2,"uh huh 
+657,SP2,"Maybe next summer you guys can try again
 "
-658,SP1,"I'm from connecticut my other roommates' from Long Island so we all met up in New York and went to a festival over the summer 
+658,SP1,"Next summer
 "
-659,SP2,"oh what festival 
+659,SP1,"yeah probably not
 "
-660,SP1,"Panorama 
+660,SP2,"Do you guys get or did it do you get along with the one who's still there
 "
-661,SP2,"Okay 
+661,SP1,"Yeah we
 "
-662,SP1,"it was Exciting 
+662,SP1,"we get along um the one who left was still hangs out with us
 "
-663,SP2,"That's so fun 
+663,SP2,"oh
 "
-664,SP1,"Got rained out 
+664,SP1,"um
 "
-665,SP2,"oh 
+665,SP2,"Did he just he's still at the school
 "
-666,SP1,"Like crazy thunderstorms so 
+666,SP1,"He just couldn't sleep
 "
-667,SP2,"That's unfortunate 
+667,SP1,"he just he switched um dorm buildings
 "
-668,SP1,"Didn't didn't get to see the weekend or maybe or anybody I wanted to see but that's okay 
+668,SP2,"oh was he in a top bunk or some
 "
-669,SP2,"Yeah another time maybe 
+669,SP1,"he just couldn't sleep
 "
-670,SP1,"Yeah it was worth it 
+670,SP1,"Yeah the other two of us aren't cause we put we put ours down
 "
-671,SP2,"Maybe next summer you guys can try again 
+671,SP2,"Okay
 "
-672,SP1,"Next summer 
+672,SP1,"Which um means we have very little space in the room but we can sleep so
 "
-673,SP1,"
+673,SP2,"oh so he was was he lofted
 "
-674,SP1,"yeah probably not 
+674,SP1,"Yeah
 "
-675,SP2,"Do you guys get or did it do you get along with the one who's still there 
+675,SP2,"Okay
 "
-676,SP1,"Yeah we 
+676,SP1,"so
 "
-677,SP1,"we get along um the one who left was still hangs out with us 
+677,SP2,"So ours is like a lo we have the Hill dorms I've seen used
 "
-678,SP2,"oh 
+678,SP1,"hills are huge
 "
-679,SP1,"um 
+679,SP2,"they're so big so the doubles are nor like p a Wonderful size
 "
-680,SP2,"Did he just he's still at the school 
+680,SP1,"Yeah
 "
-681,SP2,"
+681,SP2,"but ours is just like the exact same size but with three people living in it so it feels way smaller so like we have a lofted bed with she's all our stuff underneath and then we have our bunk bed
 "
-682,SP1,"He just couldn't sleep 
+682,SP1,"mhm
 "
-683,SP1,"he just he switched um dorm buildings 
+683,SP2,"and I was the last of the rooms so on the top of the bunkbed
 "
-684,SP2,"oh was he in a top bunk or some 
+684,SP1,"mmm
 "
-685,SP1,"he just couldn't sleep 
+685,SP2,"which kind of sucks but it's kinda cozy up there
 "
-686,SP1,"Yeah the other two of us aren't cause we put we put ours down 
+686,SP1,"that works
 "
-687,SP1,"
+687,SP2,"It just sucks cause I can't fold my laundry
 "
-688,SP2,"Okay 
+688,SP1,"oof
 "
-689,SP1,"Which um means we have very little space in the room but we can sleep so 
+689,SP2,"It's hard to do that
 "
-690,SP2,"oh so he was was he lofted 
+690,SP1,"Yeah I don't I I feel like living in Hill has a lot of benefits
 "
-691,SP1,"Yeah 
+691,SP2,"mhm
 "
-692,SP2,"Okay 
+692,SP1,"like room size being one of them
 "
-693,SP1,"so 
+693,SP2,"Yeah
 "
-694,SP2,"So ours is like a lo we have the Hill dorms I've seen used 
+694,SP1,"Like she probably don't feel like it's that forced of a triple like there's still plenty of space in your room
 "
-695,SP1,"hills are huge 
+695,SP2,"Yeah exactly like it's not like claustrophobic by any means
 "
-696,SP2,"they're so big so the doubles are nor like p a Wonderful size 
+696,SP1,"Like I can reach from the end of my bed to the end of my um roommates' bed
 "
-697,SP1,"Yeah 
+697,SP2,"Like because the like
 "
-698,SP2,"but ours is just like the exact same size but with three people living in it so it feels way smaller so like we have a lofted bed with she's all our stuff underneath and then we have our bunk bed 
+698,SP1,"like cause the way it's set up at this point like it's not that far it's like three feet
 "
-699,SP1,"mhm 
+699,SP2,"mhm
 "
-700,SP2,"and I was the last of the rooms so on the top of the bunkbed 
+700,SP2,"Did you get the third bed moved out
 "
-701,SP1,"mmm 
+701,SP1,"Not yet
 "
-702,SP2,"which kind of sucks but it's kinda cozy up there 
+702,SP1,"Um because apparently you're supposed to pay for that
 "
-703,SP1,"that works 
+703,SP2,"what
 "
-704,SP2,"It just sucks cause I can't fold my laundry 
+704,SP1,"I thought that was silly but I don't know I'm still talking with res life about it
 "
-705,SP1,"oof 
+705,SP2,"mhm That's ridic
 "
-706,SP2,"It's hard to do that 
+706,SP1,"They haven't gotten back to me
 "
-707,SP1,"Yeah I don't I I feel like living in Hill has a lot of benefits 
+707,SP2,"The guy who moved out should help you out with that
 "
-708,SP2,"mhm 
+708,SP1,"Yeah we'll figure it out um worst case scenario we don't move it out because we've been using his storage space
 "
-709,SP1,"like room size being one of them 
+709,SP2,"Okay
 "
-710,SP2,"Yeah 
+710,SP1,"So
 "
-711,SP1,"Like she probably don't feel like it's that forced of a triple like there's still plenty of space in your room 
+711,SP2,"That's nice though
 "
-712,SP2,"Yeah exactly like it's not like claustrophobic by any means 
+712,SP1,"not a big deal
 "
-713,SP1,"Like I can reach from the end of my bed to the end of my um roommates' bed 
+713,SP2,"Yeah
 "
-714,SP2,"Like because the like 
+714,SP1,"Worst case scenario it's nothing happens so
 "
-715,SP2,"
+715,SP2,"Yeah
 "
-716,SP1,"like cause the way it's set up at this point like it's not that far it's like three feet 
+716,SP1,"wa we've been living fine in the first place
 "
-717,SP2,"mhm 
+717,SP2,"mhm It works out
 "
-718,SP2,"Did you get the third bed moved out 
+718,SP1,"Yeah the Hills dorms are just huge
 "
-719,SP1,"Not yet 
+719,SP2,"I know
 "
-720,SP1,"Um because apparently you're supposed to pay for that 
+720,SP1,"like my friend's in a single there and her room's bigger than mine
 "
-721,SP2,"what 
+721,SP2,"She's in a single
 "
-722,SP1,"I thought that was silly but I don't know I'm still talking with res life about it 
+722,SP1,"Yeah
 "
-723,SP2,"mhm That's ridic 
+723,SP2,"That's so nice
 "
-724,SP1,"They haven't gotten back to me 
+724,SP1,"I wouldn't ever want to live in a single
 "
-725,SP2,"The guy who moved out should help you out with that 
+725,SP2,"I feel like singles I don't know I at least as a freshman I definitely wouldn't want to
 "
-726,SP1,"Yeah we'll figure it out um worst case scenario we don't move it out because we've been using his storage space 
+726,SP1,"Yeah
 "
-727,SP2,"Okay 
+727,SP2,"But in some ways they're nice to just be like
 "
-728,SP1,"So 
+728,SP1,"It's nice to have the privacy but like you lose that already key scial output
 "
-729,SP2,"That's nice though 
+729,SP2,"Yeah
 "
-730,SP1,"not a big deal 
+730,SP2,"Yes
 "
-731,SP2,"Yeah 
+731,SP1,"So
 "
-732,SP1,"Worst case scenario it's nothing happens so 
+732,SP2,"Like I feel like it's harder to make friends maybe
 "
-733,SP2,"Yeah 
+733,SP1,"Yeah little bit
 "
-734,SP1,"wa we've been living fine in the first place 
+734,SP2,"I don't know
 "
-735,SP2,"mhm It works out 
+735,SP1,"Not a big deal
 "
-736,SP1,"Yeah the Hills dorms are just huge 
+736,SP2,"Yeah do you like uphill or d well you're down hill so do you eat at
 "
-737,SP2,"I know 
+737,SP1,"Yeah
 "
-738,SP1,"like my friend's in a single there and her room's bigger than mine 
+738,SP1,"I eat at Dewick mostly
 "
-739,SP2,"She's in a single 
+739,SP2,"you like dewick
 "
-740,SP1,"Yeah 
+740,SP2,"I like Dewick
 "
-741,SP2,"That's so nice 
+741,SP1,"I'm sure you get Carm
 "
-742,SP1,"I wouldn't ever want to live in a single 
+742,SP2,"I like Dewick so much better
 "
-743,SP2,"I feel like singles I don't know I at least as a freshman I definitely wouldn't want to 
+743,SP1,"Dewick is better better it's that's known
 "
-744,SP1,"Yeah 
+744,SP2,"But Carm is just like so much more convenient
 "
-745,SP2,"But in some ways they're nice to just be like 
+745,SP1,"I think we should start calling Dewick just just Mcby just throw people off
 "
-746,SP1,"It's nice to have the privacy but like you lose that already key scial output 
+746,SP2,"Change it up
 "
-747,SP2,"Yeah 
+747,SP1,"I mean it wouldn't change the person is just what it is
 "
-748,SP2,"Yes 
+748,SP2,"Yeah that's funny
 "
-749,SP1,"So 
+749,SP1,"Yeah
 "
-750,SP2,"Like I feel like it's harder to make friends maybe 
+750,SP2,"people would be so confused
 "
-751,SP1,"Yeah little bit 
+751,SP1,"I got people call south um Harleston cause somebody else put money into it
 "
-752,SP2,"I don't know 
+752,SP2,"I know
 "
-753,SP1,"Not a big deal 
+753,SP1,"Um but most people still call it south
 "
-754,SP2,"Yeah do you like uphill or d well you're down hill so do you eat at 
+754,SP2,"Yeah
 "
-755,SP1,"Yeah 
+755,SP1,"Like I feel like Macphie's being left out
 "
-756,SP1,"I eat at Dewick mostly 
+756,SP2,"Everyone knows it's south
 "
-757,SP2,"you like dewick 
+757,SP2,"Yeah
 "
-758,SP2,"I like Dewick 
+758,SP1,"Yeah
 "
-759,SP1,"I'm sure you get Carm 
+759,SP2,"Poor McPhee
 "
-760,SP2,"I like Dewick so much better 
+760,SP1,"Poor Macphie
 "
-761,SP1,"Dewick is better better it's that's known 
+761,SP1,"Yeah
 "
-762,SP2,"But Carm is just like so much more convenient 
+762,SP2,"no this is it one person or is it two
 "
-763,SP1,"I think we should start calling Dewick just just Mcby just throw people off 
+763,SP1,"I think it's two people
 "
-764,SP2,"Change it up 
+764,SP2,"Yeah
 "
-765,SP1,"I mean it wouldn't change the person is just what it is 
+765,SP2,"like Dewick isn't the first name
 "
-766,SP2,"Yeah that's funny 
+766,SP1,"um
 "
-767,SP1,"Yeah 
+767,SP1,"No
 "
-768,SP2,"people would be so confused 
+768,SP2,"It's Dewick
 "
-769,SP1,"I got people call south um Harleston cause somebody else put money into it 
+769,SP1,"I don't think Dewick's a first name
 "
-770,SP2,"I know 
+770,SP2,"they're both the last name
 "
-771,SP1,"Um but most people still call it south 
+771,SP1,"No my name is Dewick that's that'd be weird yeah
 "
-772,SP2,"Yeah 
+772,SP2,"no
 "
-773,SP1,"Like I feel like Macphie's being left out 
+773,SP2,"Dewick MacPhee I don't know
 "
-774,SP2,"Everyone knows it's south 
+774,SP1,"I don't know what it's d do
 "
-775,SP2,"Yeah 
+775,SP2,"That's like there's so many Tisch buildings
 "
-776,SP1,"Yeah 
+776,SP1,"Yeah
 "
-777,SP2,"Poor McPhee 
+777,SP2,"Like there's the library and then the gym
 "
-778,SP1,"Poor Macphie 
+778,SP1,"All the Tisch family's the Tisch family's ridiculously wealthy
 "
-779,SP1,"Yeah 
+779,SP2,"Yeah
 "
-780,SP2,"no this is it one person or is it two 
+780,SP1,"Like they own the they own the New York Giants
 "
-781,SP1,"I think it's two people 
+781,SP2,"Okay
 "
-782,SP2,"Yeah 
+782,SP1,"So like if they can own a sports team they can buy buildings at all these colleges
 "
-783,SP2,"like Dewick isn't the first name 
+783,SP2,"Yeah
 "
-784,SP1,"um 
+784,SP1,"Like almost every major college like has a Tisch building of some kind
 "
-785,SP1,"No 
+785,SP2,"I just don't get what the purpose of that is
 "
-786,SP2,"It's Dewick 
+786,SP1,"Like investing their money into schools
 "
-787,SP1,"I don't think Dewick's a first name 
+787,SP2,"Yeah
 "
-788,SP2,"they're both the last name 
+788,SP1,"Higher education
 "
-789,SP1,"No my name is Dewick that's that'd be weird yeah 
+789,SP2,"Yeah
 "
-790,SP2,"no 
+790,SP1,"I don't know that's what their that's what they believe in
 "
-791,SP2,"Dewick MacPhee I don't know 
+791,SP2,"that's Nice
 "
-792,SP1,"I don't know what it's d do 
+792,SP1,"Some people believe in investing in like more and more real estate to make more money they believe in investing in peoples' futures
 "
-793,SP2,"That's like there's so many Tisch buildings 
+793,SP2,"mhm
 "
-794,SP1,"Yeah 
+794,SP2,"That's cool
 "
-795,SP2,"Like there's the library and then the gym 
+795,SP1,"By building Nice gyms
 "
-796,SP1,"All the Tisch family's the Tisch family's ridiculously wealthy 
+796,SP2,"didn't think about it that way
 "
-797,SP2,"Yeah 
+797,SP2,"The gyms
 "
-798,SP1,"Like they own the they own the New York Giants 
+798,SP1,"yeah
 "
-799,SP2,"Okay 
+799,SP2,"Keep the s Tufts students healthy
 "
-800,SP1,"So like if they can own a sports team they can buy buildings at all these colleges 
+800,SP1,"let's fight obesity let's put a giant hill right here
 "
-801,SP2,"Yeah 
+801,SP1,"That'll help
 "
-802,SP1,"Like almost every major college like has a Tisch building of some kind 
+802,SP2,"So after you work out you have to walk up hill again
 "
-803,SP2,"I just don't get what the purpose of that is 
+803,SP1,"Might have killer calves
 "
-804,SP1,"Like investing their money into schools 
+804,SP2,"oh yeah
 "
-805,SP2,"Yeah 
+805,SP1,"That's the whole goal
 "
-806,SP1,"Higher education 
+806,SP2,"ugh
 "
-807,SP2,"Yeah 
+807,SP1,"like if I had a set three goals for my entire time at Tufts the top three goals would all be to get killer calves
 "
-808,SP1,"I don't know that's what their that's what they believe in 
+808,SP2,"I feel like wa I have to every time I'm our field is down hill
 "
-809,SP2,"that's Nice 
+809,SP1,"Okay
 "
-810,SP1,"Some people believe in investing in like more and more real estate to make more money they believe in investing in peoples' futures 
+810,SP2,"so like everyday the walk from
 "
-811,SP2,"mhm 
+811,SP2,"Craft to Hill is just miserable well it's not miserable but it's so far
 "
-812,SP2,"That's cool 
+812,SP1,"Yeah
 "
-813,SP1,"By building Nice gyms 
+813,SP2,"And three days a week I have French right after practice
 "
-814,SP2,"didn't think about it that way 
+814,SP1,"ooo
 "
-815,SP2,"The gyms 
+815,SP2,"so either way I'm going like all the way to Olin
 "
-816,SP1,"yeah 
+816,SP1,"it's far
 "
-817,SP2,"Keep the s Tufts students healthy 
+817,SP2,"and it's just miserable
 "
-818,SP1,"let's fight obesity let's put a giant hill right here 
+818,SP2,"It's so far
 "
-819,SP1,"That'll help 
+819,SP1,"Yeah
 "
-820,SP2,"So after you work out you have to walk up hill again 
+820,SP2,"especially now that it's cold it's pretty bad
 "
-821,SP1,"Might have killer calves 
+821,SP1,"but Being uphill has its benefits because if you're not going all the way down hill before class like you're at the same level as the classes like I have to walk uphill to every class
 "
-822,SP2,"oh yeah 
+822,SP2,"Yeah
 "
-823,SP1,"That's the whole goal 
+823,SP2,"That's true
 "
-824,SP2,"ugh 
+824,SP1,"and have enough of a break time in between classes where I have to go back to my dorm to like do like do work and do things
 "
-825,SP1,"like if I had a set three goals for my entire time at Tufts the top three goals would all be to get killer calves 
+825,SP2,"mhm
 "
-826,SP2,"I feel like wa I have to every time I'm our field is down hill 
+826,SP2,"Yeah
 "
-827,SP1,"Okay 
+827,SP1,"And then go back to class so I'm walking uphill like three or four times a day minimum
 "
-828,SP2,"so like everyday the walk from 
+828,SP2,"Yeah where are most of your classes
 "
-829,SP2,"Craft to Hill is just miserable well it's not miserable but it's so far 
+829,SP1,"um probably like they're in the academic quad mostly
 "
-830,SP1,"Yeah 
+830,SP2,"Okay
 "
-831,SP2,"And three days a week I have French right after practice 
+831,SP1,"But um it's nice I have one class in Granoff so
 "
-832,SP1,"ooo 
+832,SP2,"uhuh
 "
-833,SP2,"so either way I'm going like all the way to Olin 
+833,SP1,"I don't have to walk very far for that
 "
-834,SP1,"it's far 
+834,SP2,"That's nice yeah mine is I've one in Granoff too and then
 "
-835,SP2,"and it's just miserable 
+835,SP2,"I have one in Eaton so that's Kinda
 "
-836,SP2,"It's so far 
+836,SP1,"Okay
 "
-837,SP1,"Yeah 
+837,SP2,"I don't know what that counts as
 "
-838,SP2,"especially now that it's cold it's pretty bad 
+838,SP1,"think it's still the academic quad
 "
-839,SP1,"but Being uphill has its benefits because if you're not going all the way down hill before class like you're at the same level as the classes like I have to walk uphill to every class 
+839,SP2,"Yeah and then Olin and then psych
 "
-840,SP2,"Yeah 
+840,SP1,"Yeah
 "
-841,SP2,"That's true 
+841,SP2,"So
 "
-842,SP1,"and have enough of a break time in between classes where I have to go back to my dorm to like do like do work and do things 
+842,SP1,"Not bad
 "
-843,SP2,"mhm 
+843,SP2,"Not bad
 "
-844,SP2,"Yeah 
+844,SP1,"it works out
 "
-845,SP1,"And then go back to class so I'm walking uphill like three or four times a day minimum 
+845,SP2,"Yeah I feel like if I were coming from Hil Oli like going to Olin and going to psych would be so easy
 "
-846,SP2,"Yeah where are most of your classes 
+846,SP1,"Yeah
 "
-847,SP1,"um probably like they're in the academic quad mostly 
+847,SP2,"But like Eaton in Granoff doesn't really ap matter
 "
-848,SP2,"Okay 
+848,SP1,"Yeah Granoff's really easy for me
 "
-849,SP1,"But um it's nice I have one class in Granoff so 
+849,SP2,"It would be the same from anywhere
 "
-850,SP2,"uhuh 
+850,SP2,"yeah
 "
-851,SP1,"I don't have to walk very far for that 
+851,SP1,"cause it's like a one minute walk from Hodge
 "
-852,SP2,"That's nice yeah mine is I've one in Granoff too and then 
+852,SP2,"Yeah I have four classes on Tuesdays and Thursdays
 "
-853,SP2,"I have one in Eaton so that's Kinda 
+853,SP1,"Really
 "
-854,SP1,"Okay 
+854,SP2,"But then on I have no classes Wednesday and I only have one class on Monday and Friday so it's like a weird like I a pretty much always have a four day weekend
 "
-855,SP2,"I don't know what that counts as 
+855,SP1,"that works
 "
-856,SP1,"think it's still the academic quad 
+856,SP2,"Which is nice
 "
-857,SP2,"Yeah and then Olin and then psych 
+857,SP1,"Yeah I set up my classes differently I have two on Monday Tuesday Wednesday and Thursday
 "
-858,SP1,"Yeah 
+858,SP2,"Okay
 "
-859,SP2,"So 
+859,SP1,"And then I have one recitation on Friday
 "
-860,SP1,"Not bad 
+860,SP2,"That's nice
 "
-861,SP2,"Not bad 
+861,SP1,"um so it works out
 "
-862,SP1,"it works out 
+862,SP2,"that's really evenly broken up
 "
-863,SP2,"Yeah I feel like if I were coming from Hil Oli like going to Olin and going to psych would be so easy 
+863,SP1,"Yeah and I thought that would be beneficial it's not
 "
-864,SP1,"Yeah 
+864,SP2,"You don't like it
 "
-865,SP2,"But like Eaton in Granoff doesn't really ap matter 
+865,SP1,"it just means I have work due every day
 "
-866,SP1,"Yeah Granoff's really easy for me 
+866,SP2,"yeah that's what I like about having Wednesdays off
 "
-867,SP2,"It would be the same from anywhere 
+867,SP1,"mhm
 "
-868,SP2,"yeah 
+868,SP2,"cause like I don't really have to do stuff Tuesday night
 "
-869,SP1,"cause it's like a one minute walk from Hodge 
+869,SP1,"Yeah
 "
-870,SP2,"Yeah I have four classes on Tuesdays and Thursdays 
+870,SP2,"But like I can if I wanna get ahead and then I don't have to do anything Thursday nights
 "
-871,SP1,"Really 
+871,SP1,"That works
 "
-872,SP2,"But then on I have no classes Wednesday and I only have one class on Monday and Friday so it's like a weird like I a pretty much always have a four day weekend 
+872,SP2,"Like I would do it again I think but I also end up wasting a lot of time cause my classes like if I don't I don't have class till six PM on Monday
 "
-873,SP1,"that works 
+873,SP2,"so I end up just like sleeping in too late
 "
-874,SP2,"Which is nice 
+874,SP1,"Really
 "
-875,SP1,"Yeah I set up my classes differently I have two on Monday Tuesday Wednesday and Thursday 
+875,SP2,"But you get you get you get
 "
-876,SP2,"Okay 
+876,SP1,"Yeah I mean I have class at nine on Tuesdays and Thursdays I hate that
 "
-877,SP1,"And then I have one recitation on Friday 
+877,SP2,"Yeah
 "
-878,SP2,"That's nice 
+878,SP1,"And it's so early
 "
-879,SP1,"um so it works out 
+879,SP2,"I have yeah I have I have that too
 "
-880,SP2,"that's really evenly broken up 
+880,SP1,"And it's weird cause like I had to wake up to be at school at eight in high school
 "
-881,SP1,"Yeah and I thought that would be beneficial it's not 
+881,SP2,"I have English
 "
-882,SP2,"You don't like it 
+882,SP2,"mhm
 "
-883,SP1,"it just means I have work due every day 
+883,SP1,"Like I thought that was early and I think this is early even though it's later
 "
-884,SP2,"yeah that's what I like about having Wednesdays off 
+884,SP2,"Yeah like getting up at eight
 "
-885,SP1,"mhm 
+885,SP1,"I think it's
 "
-886,SP2,"cause like I don't really have to do stuff Tuesday night 
+886,SP2,"like I get up at eight for my nine ams
 "
-887,SP1,"Yeah 
+887,SP1,"Yeah
 "
-888,SP2,"But like I can if I wanna get ahead and then I don't have to do anything Thursday nights 
+888,SP2,"I feel like next semster I'm gonna try and go for everything after ten
 "
-889,SP1,"That works 
+889,SP1,"yeah for sure
 "
-890,SP2,"Like I would do it again I think but I also end up wasting a lot of time cause my classes like if I don't I don't have class till six PM on Monday 
+890,SP2,"Especially cause now like at least first semester I can't have any classes between three and five six three and six so like I have the that whole chunk of time likeI couldn't put anything in my schedule for that but now I'm more flexible
 "
-891,SP2,"so I end up just like sleeping in too late 
+891,SP1,"that makes sense
 "
-892,SP1,"Really 
+892,SP1,"Yeah cause of soccer sports yeah
 "
-893,SP2,"But you get you get you get 
+893,SP2,"Yeah but I'm still trying to have Wednesdays off it's really nice cause it's like it breaks up the week
 "
-894,SP1,"Yeah I mean I have class at nine on Tuesdays and Thursdays I hate that 
+894,SP1,"it breaks up the week yeah that would be that would be probably the most beneficial day to have off
 "
-895,SP2,"Yeah 
+895,SP2,"Yeah it's like you don't like Fridays off are nice but having one class on Fridays isn't the end of the world
 "
-896,SP1,"And it's so early 
+896,SP1,"no I have a rescitation that's not mandatory
 "
-897,SP2,"I have yeah I have I have that too 
+897,SP2,"Yeah
 "
-898,SP1,"And it's weird cause like I had to wake up to be at school at eight in high school 
+898,SP1,"and like its
 "
-899,SP2,"I have English 
+899,SP2,"what for what class is it
 "
-900,SP2,"mhm 
+900,SP1,"for stats
 "
-901,SP1,"Like I thought that was early and I think this is early even though it's later 
+901,SP2,"Okay
 "
-902,SP2,"Yeah like getting up at eight 
+902,SP1,"Um I only have to show up if like when I pressing questions or to like we're actually learning something and they tell us in advance
 "
-903,SP1,"I think it's 
+903,SP2,"mhm
 "
-904,SP2,"like I get up at eight for my nine ams 
+904,SP2,"Okay
 "
-905,SP1,"Yeah 
+905,SP1,"Um so that helps
 "
-906,SP2,"I feel like next semster I'm gonna try and go for everything after ten 
+906,SP2,"yeah do you do so do each your classes only meet twice a week except sta
 "
-907,SP1,"yeah for sure 
+907,SP1,"e yes except for stats which has three
 "
-908,SP2,"Especially cause now like at least first semester I can't have any classes between three and five six three and six so like I have the that whole chunk of time likeI couldn't put anything in my schedule for that but now I'm more flexible 
+908,SP1,"Including rescitation
 "
-909,SP1,"that makes sense 
+909,SP2,"Okay
 "
-910,SP1,"Yeah cause of soccer sports yeah 
+910,SP2,"okay
 "
-911,SP2,"Yeah but I'm still trying to have Wednesdays off it's really nice cause it's like it breaks up the week 
+911,SP1,"But yeah it's nice
 "
-912,SP1,"it breaks up the week yeah that would be that would be probably the most beneficial day to have off 
+912,SP2,"Yeah
 "
-913,SP2,"Yeah it's like you don't like Fridays off are nice but having one class on Fridays isn't the end of the world 
+913,SP1,"One of my friends has rescitations for all of his classes
 "
-914,SP1,"no I have a rescitation that's not mandatory 
+914,SP2,"Uhhuh
 "
-915,SP2,"Yeah 
+915,SP1,"And he's constantly going from like class to recitation to class I mean
 "
-916,SP1,"and like its 
+916,SP2,"Yeah
 "
-917,SP2,"what for what class is it 
+917,SP1,"and Like he didn't do a good job spreading out his recitations either
 "
-918,SP1,"for stats 
+918,SP2,"mhm
 "
-919,SP2,"Okay 
+919,SP1,"on Fridays he has three classes and and which are all recitations and are all mandatory
 "
-920,SP1,"Um I only have to show up if like when I pressing questions or to like we're actually learning something and they tell us in advance 
+920,SP2,"oh my gosh I'm worried for next semester cause I'm trying to take five classes
 "
-921,SP2,"mhm 
+921,SP1,"Same though
 "
-922,SP2,"Okay 
+922,SP2,"And then like most of them like if I take econ I'll have a rescitation
 "
-923,SP1,"Um so that helps 
+923,SP1,"Okay
 "
-924,SP2,"yeah do you do so do each your classes only meet twice a week except sta 
+924,SP2,"French two will have a rescitation
 "
-925,SP1,"e yes except for stats which has three 
+925,SP1,"Yeah
 "
-926,SP1,"Including rescitation 
+926,SP2,"I wanna take computer science
 "
-927,SP2,"Okay 
+927,SP1,"I do too but I don't know when I want to take it
 "
-928,SP2,"okay 
+928,SP2,"I know
 "
-929,SP1,"But yeah it's nice 
+929,SP1,"Like I want to take next semester but I feel like next semester's like when everyone who didn't take it first semester's gonna take it
 "
-930,SP2,"Yeah 
+930,SP2,"I know
 "
-931,SP1,"One of my friends has rescitations for all of his classes 
+931,SP1,"I don't it want to be a super busy clas I want to be able to like learn well for that class
 "
-932,SP2,"Uhhuh 
+932,SP2,"Yeah
 "
-933,SP1,"And he's constantly going from like class to recitation to class I mean 
+933,SP2,"I've just heard that there's like one really really good professor and one who is not good at all
 "
-934,SP2,"Yeah 
+934,SP1,"well I don't know which is which
 "
-935,SP1,"and Like he didn't do a good job spreading out his recitations either 
+935,SP2,"I know I need to figure it out too my one friend was like
 "
-936,SP2,"mhm 
+936,SP1,"Rate my professor
 "
-937,SP1,"on Fridays he has three classes and and which are all recitations and are all mandatory 
+937,SP2,"Yeah
 "
-938,SP2,"oh my gosh I'm worried for next semester cause I'm trying to take five classes 
+938,SP1,"work works really well
 "
-939,SP1,"Same though 
+939,SP2,"that is a good one
 "
-940,SP2,"And then like most of them like if I take econ I'll have a rescitation 
+940,SP2,"my one friend told me like if you take it with her you're golden but you can't take it with this person or whatever
 "
-941,SP1,"Okay 
+941,SP1,"Yeah
 "
-942,SP2,"French two will have a rescitation 
+942,SP1,"That works
 "
-943,SP1,"Yeah 
+943,SP2,"So we'll see
 "
-944,SP2,"I wanna take computer science 
+944,SP1,"Yeah
 "
-945,SP1,"I do too but I don't know when I want to take it 
+945,SP2,"Yeah
 "
-946,SP2,"I know 
+946,SP1,"I don't know
 "
-947,SP1,"Like I want to take next semester but I feel like next semester's like when everyone who didn't take it first semester's gonna take it 
+947,SP2,"I I just don't know like my next semester is going to be so much worse than this one was
 "
-948,SP2,"I know 
+948,SP1,"Yeah that's how I feel
 "
-949,SP1,"I don't it want to be a super busy clas I want to be able to like learn well for that class 
+949,SP2,"But
 "
-950,SP2,"Yeah 
+950,SP1,"I took four pretty easy classes
 "
-951,SP2,"I've just heard that there's like one really really good professor and one who is not good at all 
+951,SP2,"Yeah me too
 "
-952,SP1,"well I don't know which is which 
+952,SP1,"Or classes that don't have a lot of work
 "
-953,SP2,"I know I need to figure it out too my one friend was like 
+953,SP2,"Yeah
 "
-954,SP1,"Rate my professor 
+954,SP1,"so ah
 "
-955,SP2,"Yeah 
+955,SP2,"Like psych is work heavy but it's like conceptually
 "
-956,SP1,"work works really well 
+956,SP1,"It;s reading heavy
 "
-957,SP2,"that is a good one 
+957,SP2,"it's reading heavy
 "
-958,SP2,"my one friend told me like if you take it with her you're golden but you can't take it with this person or whatever 
+958,SP1,"which takes a long time but isn't that hard
 "
-959,SP1,"Yeah 
+959,SP2,"Yeah and like I feel like my notes I'm so particular about how I take my notes that it takes even longer like
 "
-960,SP1,"That works 
+960,SP1,"Do you take notes and read at that like you take notes while you read
 "
-961,SP2,"So we'll see 
+961,SP2,"So I like have tried everything like oh I used to go paragraph by paragraph which I know you're not supposed to do
 "
-962,SP1,"Yeah 
+962,SP1,"mhm
 "
-963,SP2,"Yeah 
+963,SP2,"but so then like this past time for chapter eight I would read through
 "
-964,SP1,"I don't know 
+964,SP2,"All of eight point one like eight one A B C or whatever and then go back and take notes on the whole thing so like I knew like I didn't have to re read each paragraph
 "
-965,SP2,"I I just don't know like my next semester is going to be so much worse than this one was 
+965,SP2,"I kinda knew what was going on
 "
-966,SP1,"Yeah that's how I feel 
+966,SP1,"Okay
 "
-967,SP2,"But 
+967,SP2,"Um but that took me like pretty much an hour for each like nine one nine two nine three nine four
 "
-968,SP1,"I took four pretty easy classes 
+968,SP1,"Really
 "
-969,SP2,"Yeah me too 
+969,SP2,"Like I sat in Tisch from seven to eleven
 "
-970,SP1,"Or classes that don't have a lot of work 
+970,SP1,"Damn
 "
-971,SP2,"Yeah 
+971,SP2,"doing psych [ ]
 "
-972,SP1,"so ah 
+972,SP1,"that's that's tough
 "
-973,SP2,"Like psych is work heavy but it's like conceptually 
+973,SP2,"And it's like it's such a it's like not a waste a time but like I could have been I feel like there's got to be a better way to do it
 "
-974,SP1,"It;s reading heavy 
+974,SP1,"See I don't take notes at all when I read cause I'll just get distracted by it like I'll be a so focused on the notes versus the reading
 "
-975,SP2,"it's reading heavy 
+975,SP2,"Yeah
 "
-976,SP1,"which takes a long time but isn't that hard 
+976,SP1,"and I won't learn as much from it
 "
-977,SP2,"Yeah and like I feel like my notes I'm so particular about how I take my notes that it takes even longer like 
+977,SP2,"uh huh
 "
-978,SP1,"Do you take notes and read at that like you take notes while you read 
+978,SP1,"I like to just read through everything and then they have a little study guide things built into the text book
 "
-979,SP2,"So I like have tried everything like oh I used to go paragraph by paragraph which I know you're not supposed to do 
+979,SP2,"Yeah
 "
-980,SP1,"mhm 
+980,SP1,"and I'll go back and do those after
 "
-981,SP2,"but so then like this past time for chapter eight I would read through 
+981,SP1,"Just so I really master it
 "
-982,SP2,"All of eight point one like eight one A B C or whatever and then go back and take notes on the whole thing so like I knew like I didn't have to re read each paragraph 
+982,SP2,"Like the the quizzes or the
 "
-983,SP2,"I kinda knew what was going on 
+983,SP1,"Yeah like a flash cards and quizzes I can go back and do those
 "
-984,SP1,"Okay 
+984,SP2,"Yeah maybe I'll try that for chapter ten
 "
-985,SP2,"Um but that took me like pretty much an hour for each like nine one nine two nine three nine four 
+985,SP1,"Yeah
 "
-986,SP1,"Really 
+986,SP2,"Like I just feel like if I get through chapter nine I'll be fine cause ten is like the most recent thing we're learning
 "
-987,SP2,"Like I sat in Tisch from seven to eleven 
+987,SP1,"yeah
 "
-988,SP1,"Damn 
+988,SP1,"Yeah
 "
-989,SP2,"doing psych [ ] 
+989,SP2,"And then I'll just be able to like I can just review extra for it
 "
-990,SP1,"that's that's tough 
+990,SP1,"Yeah
 "
-991,SP2,"And it's like it's such a it's like not a waste a time but like I could have been I feel like there's got to be a better way to do it 
+991,SP2,"for test on Thursday
 "
-992,SP1,"See I don't take notes at all when I read cause I'll just get distracted by it like I'll be a so focused on the notes versus the reading 
+992,SP1,"That works it's the balance that I just take like really like really affected notes in class
 "
-993,SP2,"Yeah 
+993,SP2,"Yeah
 "
-994,SP1,"and I won't learn as much from it 
+994,SP1,"or I'll write down more than I necessarily
 "
-995,SP2,"uh huh 
+995,SP2,"Yeah
 "
-996,SP1,"I like to just read through everything and then they have a little study guide things built into the text book 
+996,SP1,"but just so I have it
 "
-997,SP2,"Yeah 
+997,SP2,"Yeah
 "
-998,SP1,"and I'll go back and do those after 
+998,SP1,"Yeah
 "
-999,SP1,"Just so I really master it 
+999,SP2,"I feel like
 "
-1000,SP2,"Like the the quizzes or the 
+1000,SP2,"My class notes could be better but it's also like I I feel like I don't pay as much attention in class because I know I have the reading to fall back on
 "
-1001,SP2,"
+1001,SP1,"Okay yeah
 "
-1002,SP1,"Yeah like a flash cards and quizzes I can go back and do those 
+1002,SP2,"But like that's not good like I need to be paying attention in class but we'll see
 "
-1003,SP2,"Yeah maybe I'll try that for chapter ten 
+1003,SP1,"I get that sometimes there are some there are some like lectures and chapters or at least part of a lecture I'm like okay I I I g I not really getting right now just like go for further reading
 "
-1004,SP1,"Yeah 
+1004,SP2,"Yeah
 "
-1005,SP2,"Like I just feel like if I get through chapter nine I'll be fine cause ten is like the most recent thing we're learning 
+1005,SP1,"Um in the sometimes right the opposite world like I'll read it after like a lecture and be like uh the lecture made more sense than this this do
 "
-1006,SP1,"yeah 
+1006,SP1,"this doesn't make as much sense anymore
 "
-1007,SP1,"Yeah 
+1007,SP2,"mhm
 "
-1008,SP2,"And then I'll just be able to like I can just review extra for it 
+1008,SP2,"Yeah
 "
-1009,SP1,"Yeah 
+1009,SP1,"so but it is what it is I got
 "
-1010,SP2,"for test on Thursday 
+1010,SP2,"Yeah
 "
-1011,SP1,"That works it's the balance that I just take like really like really affected notes in class 
+1011,SP1,"It's really just studying for exams and learning the material
 "
-1012,SP2,"Yeah 
+1012,SP2,"Yeah
 "
-1013,SP1,"or I'll write down more than I necessarily 
+1013,SP2,"exactly and like the I feel like this exam will be a little easier to study for
 "
-1014,SP2,"Yeah 
+1014,SP1,"well not that we've seen the exam questions
 "
-1015,SP1,"but just so I have it 
+1015,SP2,"Yeah
 "
-1016,SP2,"Yeah 
+1016,SP1,"from the first one we know how to do it
 "
-1017,SP1,"Yeah 
+1017,SP2,"Yes and like it's not as much it's not as specific I feel like the material
 "
-1018,SP2,"I feel like 
+1018,SP1,"Yeah
 "
-1019,SP2,"My class notes could be better but it's also like I I feel like I don't pay as much attention in class because I know I have the reading to fall back on 
+1019,SP2,"it's more theories and like vague stuff
 "
-1020,SP1,"Okay yeah 
+1020,SP1,"A little more vague
 "
-1021,SP2,"But like that's not good like I need to be paying attention in class but we'll see 
+1021,SP2,"whereas like last time we had to know like all the different functions
 "
-1022,SP1,"I get that sometimes there are some there are some like lectures and chapters or at least part of a lecture I'm like okay I I I g I not really getting right now just like go for further reading 
+1022,SP1,"yeah
 "
-1023,SP2,"Yeah 
+1023,SP2,"and I was like lots of flash cards with that one
 "
-1024,SP1,"Um in the sometimes right the opposite world like I'll read it after like a lecture and be like uh the lecture made more sense than this this do 
+1024,SP1,"I spend so much time just making flashcards and then I found out they had like the flash cards built in
 "
-1025,SP1,"this doesn't make as much sense anymore 
+1025,SP2,"I know
 "
-1026,SP2,"mhm 
+1026,SP1,"And I was like really did I just spend like two days just making flashcards for no reason
 "
-1027,SP2,"Yeah 
+1027,SP2,"That's all my friends did the same thing and I just like I ended up procrastinating studying for that until literally the night before like I took super diligent notes
 "
-1028,SP1,"so but it is what it is I got 
+1028,SP2,"which made it easier
 "
-1029,SP2,"Yeah 
+1029,SP1,"mhm
 "
-1030,SP1,"It's really just studying for exams and learning the material 
+1030,SP2,"but I'm not doing that this time like I need to start studying tomorrow
 "
-1031,SP2,"Yeah 
+1031,SP1,"You know I promised myself I'd do all the reading before all the lectures this time
 "
-1032,SP2,"exactly and like the I feel like this exam will be a little easier to study for 
+1032,SP1,"Uh I didn't cause I just finished chapter eight so
 "
-1033,SP1,"well not that we've seen the exam questions 
+1033,SP2,"Yeah I finished chapter eight on Thursday
 "
-1034,SP2,"Yeah 
+1034,SP1,"I finished it
 "
-1035,SP1,"from the first one we know how to do it 
+1035,SP2,"Wednesday Thursday
 "
-1036,SP2,"Yes and like it's not as much it's not as specific I feel like the material 
+1036,SP1,"Yesterday so that was Friday
 "
-1037,SP1,"Yeah 
+1037,SP2,"Yeah
 "
-1038,SP2,"it's more theories and like vague stuff 
+1038,SP1,"Yeah
 "
-1039,SP1,"A little more vague 
+1039,SP2,"And chapter nine and ten are apparently really long
 "
-1040,SP2,"whereas like last time we had to know like all the different functions 
+1040,SP1,"There's like five and six parts each
 "
-1041,SP1,"yeah 
+1041,SP2,"Yeah and like the within the individual sections like they all scroll
 "
-1042,SP2,"and I was like lots of flash cards with that one 
+1042,SP1,"Yeah
 "
-1043,SP1,"I spend so much time just making flashcards and then I found out they had like the flash cards built in 
+1043,SP2,"for a really long time and I'm just like I can't do this
 "
-1044,SP2,"I know 
+1044,SP1,"so much
 "
-1045,SP1,"And I was like really did I just spend like two days just making flashcards for no reason 
+1045,SP2,"Do you ever watch the videos
 "
-1046,SP2,"That's all my friends did the same thing and I just like I ended up procrastinating studying for that until literally the night before like I took super diligent notes 
+1046,SP1,"Yeah um if it seems like a short chapter
 "
-1047,SP2,"which made it easier 
-"
-1048,SP1,"mhm 
-"
-1049,SP2,"but I'm not doing that this time like I need to start studying tomorrow 
-"
-1050,SP1,"You know I promised myself I'd do all the reading before all the lectures this time 
-"
-1051,SP1,"Uh I didn't cause I just finished chapter eight so 
-"
-1052,SP2,"Yeah I finished chapter eight on Thursday 
-"
-1053,SP1,"I finished it 
-"
-1054,SP2,"Wednesday Thursday 
-"
-1055,SP1,"Yesterday so that was Friday 
-"
-1056,SP2,"Yeah 
-"
-1057,SP1,"Yeah 
-"
-1058,SP2,"And chapter nine and ten are apparently really long 
-"
-1059,SP1,"There's like five and six parts each 
-"
-1060,SP2,"Yeah and like the within the individual sections like they all scroll 
-"
-1061,SP1,"Yeah 
-"
-1062,SP2,"for a really long time and I'm just like I can't do this 
-"
-1063,SP1,"so much 
-"
-1064,SP2,"Do you ever watch the videos 
-"
-1065,SP1,"Yeah um if it seems like a short chapter 
-"
-1066,SP2,"Yeah 
+1047,SP2,"Yeah
 "
