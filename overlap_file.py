@@ -98,10 +98,16 @@ def line_overlap(line):
 
 #bug here too :(  
 def calculate_overlap_timing(line1, line2):
-    line1 = line1.split("_")
-    line2 = line2.split("_")
-    firstSentenceTime = 0
-    secondSentenceTime = 0
+   
+    line1 = re.sub("[^0-9_]", "", line1)
+    line2 = re.sub("[^0-9_]", "", line2)
+    line1 = line1.split("_") [-1]
+    line2 = line2.split("_") [1:-1]
+    #line2 = line2[:1]
+    #print (index)
+    print (line1)
+    print (line2)
+
 
     
     return  
@@ -115,8 +121,6 @@ def overlaptiming(line, timing, user_inputted_timing):
             line = line[:int(line_index + char_moved)] + "⌋" +line[int(line_index + char_moved):]
             line = line[:line_index] + line[line_index+1:]
             
-
-    print (line)
     return line
 
 
