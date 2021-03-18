@@ -1,8 +1,8 @@
 # Transcription with Overlap.
-# export to .csv
+# 
 # Purpose: Takes all .cha files from a directory and parse through the files
-#          which has special characters. Output them all to a seperate new csv ile
-# Date: 2/9/21
+#          which has special characters. Also calculates overlap timing and #          manipulates them in the program.
+# Date: 3/18/21
 # Made by: Spencer Ha
 
 import csv
@@ -13,6 +13,7 @@ from string import digits
 #goes through the entire directory and takes all cha files. change the listdir
 #to your dir with the cha files
 def main():
+    #prompts the user to edit the character change rate when speaking
     timing_prompt = input("Character Change rate? Lower means more chars moved ")
     path = "cha_files/"
     filelist = os.listdir(path)
@@ -35,14 +36,14 @@ def main():
                         line = line.translate({ord(z): None for z in '-*≈><\t?,∆°↗⇘∬↘⁇↑Ã≤='})
                         
                         line = line_manipulation(line)
-                        #print(line)
                         if len(line) < 2: 
                             continue 
                         else:
                             #this part cuts the code so that only the line and the overlap show
                             line = re.sub('".*?"', '', line)
                             line = line.replace(" %snd:"," ")
-                            line = line_overlap(line)
+                            #line = line_overlap(line)
+                            #Allows for us to have two lines that are one after the other which we would push into the calculate_overlap_timing function. This is so important because we have to use TWO lines to calculate any overlap.
                             if lineCounter % 2 == 1:
                                 line1 = line
                             else:
@@ -67,9 +68,47 @@ def line_manipulation(line):
     line = line.replace("uhm", "um")
     return line
 
-#next step: improve modularity. like a lot...
-def line_overlap(line):
-    """ if "⌋" in line:
+
+
+#PROBLEMS HERE :(  
+def calculate_overlap_timing(line1, line2):
+   
+   # remove all non digits and non underscore from the line so that only overlap timing appears
+    line1 = re.sub("[^0-9_]", "", line1)
+    line2 = re.sub("[^0-9_]", "", line2)
+    line1 = line1.split("_") [-1]
+    line2 = line2.split("_") [1:-1]
+    #You can see the problem here! We have line 2 in an array and there are some arrays that are completely empty which makes it so that it is exteremly hard to index and convert these from string to integers. 
+    print (line1)
+    print (line2)
+
+
+    
+    return  
+        
+def overlaptiming(line, timing, user_inputted_timing):
+    if timing < 0:
+        if "⌋" in line:
+            #uses the timing (which at the current moment is hard coded) and the user inputted timing to determine how many chars to move
+            char_moved = abs(timing) / user_inputted_timing          
+            line_index = line.index("⌋")
+            line = line + "Fixing ⌋ error at index " + str(line_index) + "\n"
+            #adds the new ⌋ after moving chars
+            line = line[:int(line_index + char_moved)] + "⌋" +line[int(line_index + char_moved):]
+            #removing old ⌋
+            line = line[:line_index] + line[line_index+1:]
+            
+    return line
+
+
+
+main() 
+
+
+
+#not needed for now
+""" def line_overlap(line):
+    if "⌋" in line:
         line_index = line.index("⌋")
         if line[line_index + 1] != " " and line[line_index - 1] != " ":
             space_index = line.find(" ", line_index)
@@ -92,37 +131,6 @@ def line_overlap(line):
                 
             line = line = line[:prev_value] + "⌈" +line[prev_value:]
             line = line[:line_index+1] + line[line_index+2:]
-            line = line + "Fixing ⌈ error at index " + str(prev_value) + "\n" """
+            line = line + "Fixing ⌈ error at index " + str(prev_value) + "\n"
 
-    return line 
-
-#bug here too :(  
-def calculate_overlap_timing(line1, line2):
-   
-    line1 = re.sub("[^0-9_]", "", line1)
-    line2 = re.sub("[^0-9_]", "", line2)
-    line1 = line1.split("_") [-1]
-    line2 = line2.split("_") [1:-1]
-    #line2 = line2[:1]
-    #print (index)
-    print (line1)
-    print (line2)
-
-
-    
-    return  
-        
-def overlaptiming(line, timing, user_inputted_timing):
-    if timing < 0:
-        if "⌋" in line:
-            char_moved = abs(timing) / user_inputted_timing          
-            line_index = line.index("⌋")
-            line = line + "Fixing ⌋ error at index " + str(line_index) + "\n"
-            line = line[:int(line_index + char_moved)] + "⌋" +line[int(line_index + char_moved):]
-            line = line[:line_index] + line[line_index+1:]
-            
-    return line
-
-
-
-main() 
+    return line  """
