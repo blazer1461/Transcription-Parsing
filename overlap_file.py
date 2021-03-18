@@ -13,6 +13,7 @@ from string import digits
 #goes through the entire directory and takes all cha files. change the listdir
 #to your dir with the cha files
 def main():
+    timing_prompt = input("Character Change rate? Lower means more chars moved ")
     path = "cha_files/"
     filelist = os.listdir(path)
 
@@ -25,11 +26,11 @@ def main():
         if i.endswith(".cha"):
             with open(path + i, 'r') as file:
                 print(path + i)
-                line1 = ""
-                line2 = ""
+                
                 lineCounter = 1
                 for line in file:
-                
+                    line1 = ""
+                    line2 = ""
                     if line[0] == '*':
                         line = line.translate({ord(z): None for z in '-*≈><\t?,∆°↗⇘∬↘⁇↑Ã≤='})
                         
@@ -38,9 +39,8 @@ def main():
                         if len(line) < 2: 
                             continue 
                         else:
-                            #this part cuts the code so that only the line and the overlap shows
-                            line = line.split('"')
-                            line = line[0] + line[-1]
+                            #this part cuts the code so that only the line and the overlap show
+                            line = re.sub('".*?"', '', line)
                             line = line.replace(" %snd:"," ")
                             line = line_overlap(line)
                             if lineCounter % 2 == 1:
@@ -49,6 +49,10 @@ def main():
                                 line2 = line
                             lineCounter = lineCounter + 1
                             calculate_overlap_timing(line1, line2)
+                            #temp for now. once i get overlap timing to work this is an easy fix
+                            timing = -800
+                            #
+                            line = overlaptiming(line, timing, int(timing_prompt))
                             writer_txt.writelines(line)
                             
 def line_manipulation(line):
@@ -65,11 +69,11 @@ def line_manipulation(line):
 
 #next step: improve modularity. like a lot...
 def line_overlap(line):
-    if "⌋" in line:
+    """ if "⌋" in line:
         line_index = line.index("⌋")
         if line[line_index + 1] != " " and line[line_index - 1] != " ":
             space_index = line.find(" ", line_index)
-            #line = line + "Fixing ⌋ error at index " + str(space_index) + "\n"
+            line = line + "Fixing ⌋ error at index " + str(space_index) + "\n"
             line = line[:space_index] + "⌋" +line[space_index:]
             line = line[:line_index] + line[line_index+1:]
         elif line[line_index - 1] == " ":
@@ -88,20 +92,32 @@ def line_overlap(line):
                 
             line = line = line[:prev_value] + "⌈" +line[prev_value:]
             line = line[:line_index+1] + line[line_index+2:]
-            #line = line + "Fixing ⌈ error at index " + str(prev_value) + "\n"
+            line = line + "Fixing ⌈ error at index " + str(prev_value) + "\n" """
 
     return line 
 
 #bug here too :(  
 def calculate_overlap_timing(line1, line2):
-    line1 = line1.split("_")[0]
-    line2 = line2.split("_")[-1]
+    line1 = line1.split("_")
+    line2 = line2.split("_")
     firstSentenceTime = 0
     secondSentenceTime = 0
-    print (line1)
-    print (line2)
-    return 
+
+    
+    return  
         
+def overlaptiming(line, timing, user_inputted_timing):
+    if timing < 0:
+        if "⌋" in line:
+            char_moved = abs(timing) / user_inputted_timing          
+            line_index = line.index("⌋")
+            line = line + "Fixing ⌋ error at index " + str(line_index) + "\n"
+            line = line[:int(line_index + char_moved)] + "⌋" +line[int(line_index + char_moved):]
+            line = line[:line_index] + line[line_index+1:]
+            
+
+    print (line)
+    return line
 
 
 
