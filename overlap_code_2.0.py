@@ -22,8 +22,8 @@ def find_turn(n, linelist):
         times = line.split("\x15")[1]
         start_time = int(times.split("_")[0])
         end_time = int(times.split("_")[1])
-        words = line.split("    ")[1]
-        words = words.replace(" . "," ")
+        #words = line.split("    ")[1]
+        words = line.replace(" . "," ")
         words = words.split("\x15")[0]
         words = words.strip()
         return Turn(speaker, words, start_time, end_time), n # n is sort of like line number
@@ -53,7 +53,8 @@ def is_overlapped(first, second):
 
 def make_line(line):
     # write the line in .cha format
-    new_line = line.speaker + ':\t' + line.words + '   \x15' + str(line.start_time) + '_' + str(line.end_time) + '\x15' + '\n'
+    #take out next line.speaker part?
+    new_line = line.words + '   \x15' + str(line.start_time) + '_' + str(line.end_time) + '\x15' + '\n'
     # print("writing: ", new_line)
     return new_line
 
@@ -86,37 +87,37 @@ def starting_overlaps(line1, line2):
 
 
 def ending_overlaps(line1, line2):
-if is_overlapped(line1, line2):
-    end_dif = calculate_end_difference(line1, line2)
-    print("end_dif is: ", end_dif)
+    if is_overlapped(line1, line2):
+        end_dif = calculate_end_difference(line1, line2)
+        print("end_dif is: ", end_dif)
     
     # if end_dif is positive, that means that turn2 ends after turn1 end
-    if(end_dif > 0):
-        line1.words = line1.words + '⌉'
-        prop = end_dif / line2.duration
-        bottom_right_calc = round(prop * len(line2.words))
-        print("bottom_right is: ", bottom_right_calc)
-        if bottom_right_calc - len(line2.words) < 2:
-            bottom_right_calc = bottom_right_calc - 2
+        if(end_dif > 0):
+            line1.words = line1.words + '⌉'
+            prop = end_dif / line2.duration
+            bottom_right_calc = round(prop * len(line2.words))
+            print("bottom_right is: ", bottom_right_calc)
+            if bottom_right_calc - len(line2.words) < 2:
+                bottom_right_calc = bottom_right_calc - 2
         
-        bottom_right = len(line2.words) - bottom_right_calc
+            bottom_right = len(line2.words) - bottom_right_calc
         
-        line2.words = line2.words[0:bottom_right] + '⌋' + line2.words[bottom_right:]
+            line2.words = line2.words[0:bottom_right] + '⌋' + line2.words[bottom_right:]
     
     # if end_dif is negative, that means that turn2 ends before turn1 ends
-    else:
-        end_dif = abs(end_dif)
-        line2.words = line2.words + '⌋'
-        prop = end_dif / line1.duration
+        else:
+            end_dif = abs(end_dif)
+            line2.words = line2.words + '⌋'
+            prop = end_dif / line1.duration
         
-        top_right_minus = round(prop * len(line1.words))
-        top_right = len(line1.words) - top_right_minus
+            top_right_minus = round(prop * len(line1.words))
+            top_right = len(line1.words) - top_right_minus
         
-        if top_right - len(line1.words) < 2:
-            top_right = top_right - 1
+            if top_right - len(line1.words) < 2:
+                top_right = top_right - 1
             
         
-        line1.words = line1.words[0:top_right] + '⌉' + line1.words[top_right:]
+            line1.words = line1.words[0:top_right] + '⌉' + line1.words[top_right:]
 
 
 
@@ -126,12 +127,14 @@ if is_overlapped(line1, line2):
 # we will only write the "middle_turn" to the file
 
 import re
-file = open("2017-10-30-session-1.cha")
+input_file = input("Which file do you want to open: ")
+output_file = input("Which file do you want to output to (do not include .cha tag): ")
+file = open("cha_files/" + input_file)
 lines = file.readlines()
 n = 0
 counter = 0
 
-writer_txt = open('2017-10-30-session-1-trial-afterrestart.cha', 'w')
+writer_txt = open(output_file+ '.cha', 'w')
 
 for line in lines:
     if line[0] in '@%    ':
